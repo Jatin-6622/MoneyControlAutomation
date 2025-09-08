@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Configuration status="INFO">
+    <Appenders>
+        <RollingFile name="RollingFileLogger" fileName="logs/automation.log"
+                     filePattern="logs/automation-%d{yyyy-MM-dd}-%i.log.gz">
+            <PatternLayout>
+                <Pattern>%d{yyyy-MM-dd HH:mm:ss} [%t] %-5level %logger{36} - %msg%n</Pattern>
+            </PatternLayout>
+            <Policies>
+                <TimeBasedTriggeringPolicy interval="1"/>
+                <SizeBasedTriggeringPolicy size="10 MB"/>
+            </Policies>
+        </RollingFile>
+    </Appenders>
+
+    <Loggers>
+        <Root level="info">
+            <AppenderRef ref="RollingFileLogger"/>
+        </Root>
+
+        <Logger name="stepdefinitions" level="debug" additivity="false">
+            <AppenderRef ref="RollingFileLogger"/>
+        </Logger>
+
+        <Logger name="pages" level="debug" additivity="false">
+            <AppenderRef ref="RollingFileLogger"/>
+        </Logger>
+
+        <Logger name="utils" level="debug" additivity="false">
+            <AppenderRef ref="RollingFileLogger"/>
+        </Logger>
+    </Loggers>
+</Configuration>
