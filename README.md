@@ -65,13 +65,13 @@ It automates financial calculators such as **Provident Fund**, **Gratuity**, and
 ## 📊 Test Reports
 - ExtentReport.html contains a detailed test execution report with screenshots.  
 - JSON and HTML reports are generated in `target/` folder.  
-![Extent Report ](images/ExtentFile.png)
-![Extent Report Cont.](images/ExtentFile2.png)
-![Extent Report User Opreration](images/ExtentFile3.png)
-![Extent Report Charts](images/ExtentFile4.png)
-![Cucumber Report](images/Cucumber.png)
-![Cucumber Report Cont.](images/Cucumber.png)
-![TestNG Report](images/TestNg.png)
+![Extent Report ](MoneyControl_CapstoneProject/images/ExtentFile.png)
+![Extent Report Cont.](MoneyControl_CapstoneProject/images/ExtentFile2.png)
+![Extent Report User Opreration](MoneyControl_CapstoneProjectimages/ExtentFile3.png)
+![Extent Report Charts](MoneyControl_CapstoneProject/images/ExtentFile4.png)
+![Cucumber Report](MoneyControl_CapstoneProject/images/Cucumber.png)
+![Cucumber Report Cont.](MoneyControl_CapstoneProject/images/Cucumber.png)
+![TestNG Report](MoneyControl_CapstoneProject/images/TestNg.png)
 
 
 **✍️ Author**
