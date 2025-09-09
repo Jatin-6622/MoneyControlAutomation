@@ -13,7 +13,7 @@ public class GratuitySteps extends BaseSetup{
 	@Given("the user is on the Money Control site")
 	public void the_user_is_on_the_money_control_site() {
 		Gratuity=new GratuityPage(getDriver());
-		   String filepath="E:\\New folder\\MoneyControl_CapstoneProject\\src\\main\\resources\\testdata\\TestData.xlsx";
+		   String filepath="C:\\Users\\JATIN SHARMA\\git\\CapstoneProject-MoneyControl\\MoneyControl_CapstoneProject\\src\\main\\resources\\testdata\\TestData.xlsx";
 		    reader=new ExcelReader(filepath, "Sheet3");
 	}
 
@@ -54,34 +54,37 @@ public class GratuitySteps extends BaseSetup{
 	   Gratuity.click_Submit();
 	}
 	@Then("the user should see the Alert containing message {string}")
-	public void the_user_should_see_the_calculated_gratuity_alert(String alert) {
-		String expected=Gratuity.click_Submit();
-		Assert.assertEquals(alert,expected);
+	public void the_user_should_see_the_calculated_gratuity_alert(String expectedAlert) {
+	    String actual = Gratuity.getAlertText();
+	    Assert.assertEquals(actual, expectedAlert);
 	}
+
 	@Then("the user should see the calculated gratuity amount {string}")
 	public void the_user_should_see_the_calculated_gratuity_amount(String salaryValue) {
-		 	int row=reader.findRowByValue(0, salaryValue);
-			String salaryStr = reader.getCellData(row, 0);  
-	        String yearsStr = reader.getCellData(row, 1);   
-	        String monthsStr = reader.getCellData(row, 2);  
-	        double salary = (salaryStr == null || salaryStr.isEmpty()) ? 0 : Double.parseDouble(salaryStr);
-	        int years = (yearsStr == null || yearsStr.isEmpty()) ? 0 : (int) Math.round(Double.parseDouble(yearsStr));
-	        int months = (monthsStr == null || monthsStr.isEmpty()) ? 0 : (int) Math.round(Double.parseDouble(monthsStr));
+	    int row = reader.findRowByValue(0, salaryValue.replaceAll(" ",""));
+	    if (row == -1) {
+	        throw new RuntimeException("Salary " + salaryValue + " not found in Excel!");
+	    }
+	    String salaryStr = reader.getCellData(row, 0);
+	    String yearsStr = reader.getCellData(row, 1);
+	    String monthsStr = reader.getCellData(row, 2);
 
-	        double totalYears = years + (months / 12.0);
-	        if (years < 5) totalYears = 0; 
-	        double gratuity = (salary * 15 / 26) * totalYears;
-	        gratuity = Math.round(gratuity * 100.0) / 100.0;
-
-	 
+	    double salary = salaryStr.isEmpty() ? 0 : Double.parseDouble(salaryStr);
+	    int years = yearsStr.isEmpty() ? 0 : (int) Math.round(Double.parseDouble(yearsStr));
+	    int months = monthsStr.isEmpty() ? 0 : (int) Math.round(Double.parseDouble(monthsStr));
+	    double totalYears = years;
+	    if (months >6) totalYears += 1;
+	    if (years < 5) totalYears = 0;
+	    double gratuity = (salary * 15 / 26) * totalYears;
+	    gratuity = Math.round(gratuity * 100.0) / 100.0;
+	    
 	    String actualText = Gratuity.gather_Result().replaceAll("[^0-9.]", "");
 	    double actualDouble = actualText.isEmpty() ? 0 : Double.parseDouble(actualText);
-	    String result="answer";
 	    actualDouble = Math.round(actualDouble * 100.0) / 100.0;
-
-	    Assert.assertNotEquals(result,actualText);
+	    int expectedInt = (int) Math.round(gratuity);
+	    int actualInt  = (int) Math.round(actualDouble);
+	    Assert.assertEquals(actualInt, expectedInt, "Gratuity calculation mismatch!");
 	}
-
 
 
 }

@@ -6,11 +6,12 @@ import org.openqa.selenium.support.FindBy;
 import org.openqa.selenium.support.PageFactory;
 
 import utils.ElementUtils;
+import utils.WaitUtils;
 
 public class PersonalLoanPage {
 	private WebDriver driver;
 	private ElementUtils utils;
-	
+	private WaitUtils wait;
 	@FindBy(xpath="//a[@title='Personal Finance']//span[@class='arrow down']")
 	private WebElement PersonalFinance;
 	@FindBy(xpath="//a[@href='https://www.moneycontrol.com/personal-finance/loans/personal-loan/calculator']")
@@ -36,6 +37,7 @@ public class PersonalLoanPage {
 		this.driver=driver;
 		PageFactory.initElements(driver,this);
 		utils=new ElementUtils(driver, 10);
+		wait=new WaitUtils(driver);
 	}
 	public void hover_on_PersonalFinance() {
 		utils.onlyHoverOverElement(PersonalFinance);
@@ -62,6 +64,7 @@ public class PersonalLoanPage {
 		utils.clickElement(AdsElement);
 	}
 	public String get_AmountPayable() {
+		wait.fluentWait(AmountPayable,10,1);
 		return utils.getText(AmountPayable);
 	}
 	public static int calculateTotalPayable(int principal, double annualRate, int tenure, String type) {

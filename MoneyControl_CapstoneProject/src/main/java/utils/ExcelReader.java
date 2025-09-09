@@ -5,6 +5,7 @@ import java.io.FileOutputStream;
 import java.io.IOException;
 
 import org.apache.poi.ss.usermodel.Cell;
+import org.apache.poi.ss.usermodel.CellType;
 import org.apache.poi.ss.usermodel.Row;
 import org.apache.poi.ss.usermodel.Sheet;
 import org.apache.poi.ss.usermodel.Workbook;
@@ -41,20 +42,22 @@ public class ExcelReader {
     }
 
     // Get cell data as String
-    public String getCellData(int rowNum, int colNum) {
-        try {
-            Row row = sheet.getRow(rowNum);
-            if(row != null) {
-                Cell cell = row.getCell(colNum);
-                if(cell != null) {
-                    return cell.toString();
+    public String getCellData(int row, int col) {
+        Cell cell = sheet.getRow(row).getCell(col);
+        if (cell == null) return "";
+        switch (cell.getCellType()) {
+            case NUMERIC:
+                if (cell.getNumericCellValue() % 1 == 0) {
+                    return String.valueOf((long) cell.getNumericCellValue()); // remove .0
                 }
-            }
-        } catch (Exception e) {
-            e.printStackTrace();
+                return String.valueOf(cell.getNumericCellValue());
+            case STRING:
+                return cell.getStringCellValue().trim();
+            default:
+                return cell.toString().trim();
         }
-        return "";
     }
+   
     public void setCellData(int rowNum, int colNum, String value) {
         try {
             Row row = sheet.getRow(rowNum);
@@ -75,20 +78,41 @@ public class ExcelReader {
         }
     }
     public int findRowByValue(int col, String value) {
-        for (int i = 1; i <= sheet.getLastRowNum(); i++) { // assuming row 0 is header
-            if (sheet.getRow(i).getCell(col).toString().equalsIgnoreCase(value)) {
-                return i;
+        for (int i = 0; i <= sheet.getLastRowNum(); i++) {  // start at 0
+            if (sheet.getRow(i) == null || sheet.getRow(i).getCell(col) == null) {
+                continue;
+            }
+
+            Cell cell = sheet.getRow(i).getCell(col);
+
+            // Handle numeric cells
+            if (cell.getCellType() == CellType.NUMERIC) {
+                double excelVal = cell.getNumericCellValue();
+
+                try {
+                    double inputVal = Double.parseDouble(value);
+
+                    // Round both to 2 decimals for comparison
+                    double roundedExcel = Math.round(excelVal * 100.0) / 100.0;
+                    double roundedInput = Math.round(inputVal * 100.0) / 100.0;
+
+                    if (roundedExcel == roundedInput) {
+                        return i;
+                    }
+                } catch (NumberFormatException e) {
+                    // If parsing fails, skip to string comparison
+                }
+
+            } else {
+                // For non-numeric (String) cells
+                String cellValue = cell.toString().trim();
+                if (cellValue.equalsIgnoreCase(value.trim())) {
+                    return i;
+                }
             }
         }
-        return -1; // not found
+        return -1;  // not found
     }
-    public void closeWorkbook() {
-        try {
-            if(workbook != null) {
-                workbook.close();
-            }
-        } catch (IOException e) {
-            e.printStackTrace();
-        }
+
     }
-}
+

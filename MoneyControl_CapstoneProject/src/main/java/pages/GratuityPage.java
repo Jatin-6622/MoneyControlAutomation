@@ -28,7 +28,7 @@ public class GratuityPage {
 	private WebElement Month;
 	@FindBy(xpath="//a[@id='graduity_calc_btn']")
 	private WebElement SubmitBtn;
-	@FindBy(xpath="//span[id='graduity_amt']")
+	@FindBy(xpath="//span[@id='graduity_amt']")
 	private WebElement FinalAmount;
 	public GratuityPage(WebDriver driver) {
 		this.driver=driver;
@@ -70,18 +70,19 @@ public class GratuityPage {
 	public void enter_Months(String month) {
 		utils.typeText(Month, month);
 	}
-	public String click_Submit() {
+	public void click_Submit() {
 		utils.clickElement(SubmitBtn);
-		try {
-            Alert alert = driver.switchTo().alert();
-            return alert.getText();
-        } 
-	 catch (NoAlertPresentException e) {
-            System.out.println("No alert present");
-        }
-		return "";
 	}
-
+	public String getAlertText() {
+	    try {
+	        Alert alert = driver.switchTo().alert();
+	        String text = alert.getText();
+	        alert.accept();
+	        return text;
+	    } catch (NoAlertPresentException e) {
+	        return "";
+	    }
+	}
 	public String gather_Result() {
 		return utils.getText(FinalAmount);
 	}

@@ -7,7 +7,7 @@
         <methods>
           <include name="setUpClass"/>
           <include name="tearDownClass"/>
-          <include name="runScenario" invocation-numbers="0 1 2 3 4 6 7 8"/>
+          <include name="runScenario" invocation-numbers="18 8 9"/>
         </methods>
       </class> <!-- runners.TestRunner_CNG -->
     </classes>

@@ -12,7 +12,8 @@ public class LoanCalculatorSteps extends BaseSetup{
 	ExcelReader reader;
 	@Given("the user is on the Money Control Site")
 	public void the_user_is_on_the_money_control_site() {
-	   
+	   LoanPage=new PersonalLoanPage(getDriver());
+	   reader=new ExcelReader("C://Users//JATIN SHARMA//git//CapstoneProject-MoneyControl//MoneyControl_CapstoneProject//src//main//resources//testdata//TestData.xlsx","Sheet2");
 	}
 	@When("the user disables the ads shown in EMI Calculator")
 	public void the_users_click_on_ads_toRemove() {

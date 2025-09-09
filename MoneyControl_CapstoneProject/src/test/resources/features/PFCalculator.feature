@@ -26,7 +26,7 @@ Feature: Provident Fund Calculator functionality
     And the user enters Employer Contribution "15"
     And the user enters Intended Years of Service "35"
     And the user clicks on Calculate
-    Then the user should see the acgcumulated PF value contibution changed.
+    Then the user should see the accumulated PF value contibution changed.
     
     
     

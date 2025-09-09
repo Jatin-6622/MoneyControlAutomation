@@ -16,9 +16,9 @@ public class LoginPage {
 	private WebElement LogIn;
 	@FindBy(xpath = "//input[@name='email_mirror']")
 	private WebElement EmailMobile;
-	@FindBy(xpath = "//span[@class='user_nm']")
+	@FindBy(xpath = "//span[@class='usr_nm']")
 	private WebElement UserDisplay;
-	@FindBy(xpath = "//span[@class='input_msg']")
+	@FindBy(xpath = "//div[@id='email_mirror-error']")
 	private WebElement ErrorMsg;
 	public LoginPage(WebDriver driver) {
 		this.driver=driver;

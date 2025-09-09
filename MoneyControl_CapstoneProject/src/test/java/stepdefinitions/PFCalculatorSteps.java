@@ -13,7 +13,7 @@ public class PFCalculatorSteps extends BaseSetup {
     @Given("the user is on the Money Control Page")
 	public void the_user_is_on_the_MoneyControlPage() {
 	    pfCalc=new PFCalculatorPage(getDriver());
-	    String filepath="E:\\New folder\\MoneyControl_CapstoneProject\\src\\main\\resources\\testdata\\TestData.xlsx";
+	    String filepath="C:\\Users\\JATIN SHARMA\\git\\CapstoneProject-MoneyControl\\MoneyControl_CapstoneProject\\src\\main\\resources\\testdata\\TestData.xlsx";
 	    reader=new ExcelReader(filepath, "Sheet1");
 	}
     @When("the user hovers over {string} and clicks on {string}")

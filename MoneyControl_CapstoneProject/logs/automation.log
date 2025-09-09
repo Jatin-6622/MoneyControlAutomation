@@ -1,759 +1,473 @@
-2025-09-08 16:06:09 [main] INFO  utils.LoggerUtil - ===== Test Execution Started =====
-2025-09-08 16:06:57 [main] INFO  utils.LoggerUtil - Starting scenario: Successful EMI calculation with valid loan details
-2025-09-08 16:07:01 [main] INFO  utils.LoggerUtil - Screenshot captured for step: Passed Step Screenshot
-2025-09-08 16:07:01 [main] INFO  utils.LoggerUtil - Step passed in scenario: Successful EMI calculation with valid loan details
-2025-09-08 16:07:15 [main] INFO  utils.LoggerUtil - Screenshot captured for step: Failed Step Screenshot
-2025-09-08 16:07:15 [main] ERROR utils.LoggerUtil - Step failed in scenario: Successful EMI calculation with valid loan details
-2025-09-08 16:07:15 [main] ERROR utils.LoggerUtil - Scenario failed: Successful EMI calculation with valid loan details
-2025-09-08 16:07:22 [main] INFO  utils.LoggerUtil - Starting scenario: Successful EMI calculation with valid loan details
-2025-09-08 16:07:22 [main] ERROR utils.LoggerUtil - Scenario failed: Successful EMI calculation with valid loan details
-2025-09-08 16:07:23 [main] INFO  utils.LoggerUtil - ===== Test Execution Finished =====
-2025-09-08 16:10:29 [main] INFO  utils.LoggerUtil - ===== Test Execution Started =====
-2025-09-08 16:11:14 [main] INFO  utils.LoggerUtil - Starting scenario: Successful EMI calculation with valid loan details
-2025-09-08 16:11:18 [main] INFO  utils.LoggerUtil - Screenshot captured for step: Passed Step Screenshot
-2025-09-08 16:11:18 [main] INFO  utils.LoggerUtil - Step passed in scenario: Successful EMI calculation with valid loan details
-2025-09-08 16:11:29 [main] INFO  utils.LoggerUtil - Screenshot captured for step: Passed Step Screenshot
-2025-09-08 16:11:29 [main] INFO  utils.LoggerUtil - Step passed in scenario: Successful EMI calculation with valid loan details
-2025-09-08 16:11:42 [main] INFO  utils.LoggerUtil - Screenshot captured for step: Failed Step Screenshot
-2025-09-08 16:11:42 [main] ERROR utils.LoggerUtil - Step failed in scenario: Successful EMI calculation with valid loan details
-2025-09-08 16:11:42 [main] ERROR utils.LoggerUtil - Scenario failed: Successful EMI calculation with valid loan details
-2025-09-08 16:11:48 [main] INFO  utils.LoggerUtil - Starting scenario: Successful EMI calculation with valid loan details
-2025-09-08 16:11:48 [main] ERROR utils.LoggerUtil - Scenario failed: Successful EMI calculation with valid loan details
-2025-09-08 16:11:50 [main] INFO  utils.LoggerUtil - ===== Test Execution Finished =====
-2025-09-08 16:20:00 [main] INFO  utils.LoggerUtil - ===== Test Execution Started =====
-2025-09-08 16:20:43 [main] INFO  utils.LoggerUtil - Starting scenario: Successful EMI calculation with valid loan details
-2025-09-08 16:20:47 [main] INFO  utils.LoggerUtil - Screenshot captured for step: Passed Step Screenshot
-2025-09-08 16:20:47 [main] INFO  utils.LoggerUtil - Step passed in scenario: Successful EMI calculation with valid loan details
-2025-09-08 16:21:05 [main] INFO  utils.LoggerUtil - Screenshot captured for step: Passed Step Screenshot
-2025-09-08 16:21:05 [main] INFO  utils.LoggerUtil - Step passed in scenario: Successful EMI calculation with valid loan details
-2025-09-08 16:21:07 [main] INFO  utils.LoggerUtil - Screenshot captured for step: Passed Step Screenshot
-2025-09-08 16:21:07 [main] INFO  utils.LoggerUtil - Step passed in scenario: Successful EMI calculation with valid loan details
-2025-09-08 16:21:18 [main] INFO  utils.LoggerUtil - Screenshot captured for step: Failed Step Screenshot
-2025-09-08 16:21:18 [main] ERROR utils.LoggerUtil - Step failed in scenario: Successful EMI calculation with valid loan details
-2025-09-08 16:21:18 [main] ERROR utils.LoggerUtil - Scenario failed: Successful EMI calculation with valid loan details
-2025-09-08 16:21:25 [main] INFO  utils.LoggerUtil - Starting scenario: Successful EMI calculation with valid loan details
-2025-09-08 16:21:25 [main] ERROR utils.LoggerUtil - Scenario failed: Successful EMI calculation with valid loan details
-2025-09-08 16:21:26 [main] INFO  utils.LoggerUtil - ===== Test Execution Finished =====
-2025-09-08 16:24:50 [main] INFO  utils.LoggerUtil - ===== Test Execution Started =====
-2025-09-08 16:25:01 [main] INFO  utils.LoggerUtil - Starting scenario: Successful EMI calculation with valid loan details
-2025-09-08 16:25:03 [main] INFO  utils.LoggerUtil - Screenshot captured for step: Passed Step Screenshot
-2025-09-08 16:25:03 [main] INFO  utils.LoggerUtil - Step passed in scenario: Successful EMI calculation with valid loan details
-2025-09-08 16:25:52 [main] INFO  utils.LoggerUtil - Screenshot captured for step: Passed Step Screenshot
-2025-09-08 16:25:52 [main] INFO  utils.LoggerUtil - Step passed in scenario: Successful EMI calculation with valid loan details
-2025-09-08 16:25:54 [main] INFO  utils.LoggerUtil - Screenshot captured for step: Passed Step Screenshot
-2025-09-08 16:25:54 [main] INFO  utils.LoggerUtil - Step passed in scenario: Successful EMI calculation with valid loan details
-2025-09-08 16:25:55 [main] INFO  utils.LoggerUtil - Screenshot captured for step: Passed Step Screenshot
-2025-09-08 16:25:55 [main] INFO  utils.LoggerUtil - Step passed in scenario: Successful EMI calculation with valid loan details
-2025-09-08 16:25:57 [main] INFO  utils.LoggerUtil - Screenshot captured for step: Passed Step Screenshot
-2025-09-08 16:25:57 [main] INFO  utils.LoggerUtil - Step passed in scenario: Successful EMI calculation with valid loan details
-2025-09-08 16:25:59 [main] INFO  utils.LoggerUtil - Screenshot captured for step: Passed Step Screenshot
-2025-09-08 16:25:59 [main] INFO  utils.LoggerUtil - Step passed in scenario: Successful EMI calculation with valid loan details
-2025-09-08 16:26:00 [main] INFO  utils.LoggerUtil - Screenshot captured for step: Passed Step Screenshot
-2025-09-08 16:26:00 [main] INFO  utils.LoggerUtil - Step passed in scenario: Successful EMI calculation with valid loan details
-2025-09-08 16:26:01 [main] INFO  utils.LoggerUtil - Screenshot captured for step: Failed Step Screenshot
-2025-09-08 16:26:01 [main] ERROR utils.LoggerUtil - Step failed in scenario: Successful EMI calculation with valid loan details
-2025-09-08 16:26:01 [main] ERROR utils.LoggerUtil - Scenario failed: Successful EMI calculation with valid loan details
-2025-09-08 16:26:10 [main] INFO  utils.LoggerUtil - Starting scenario: Successful EMI calculation with valid loan details
-2025-09-08 16:26:11 [main] INFO  utils.LoggerUtil - Screenshot captured for step: Passed Step Screenshot
-2025-09-08 16:26:11 [main] INFO  utils.LoggerUtil - Step passed in scenario: Successful EMI calculation with valid loan details
-2025-09-08 16:27:06 [main] INFO  utils.LoggerUtil - Screenshot captured for step: Passed Step Screenshot
-2025-09-08 16:27:06 [main] INFO  utils.LoggerUtil - Step passed in scenario: Successful EMI calculation with valid loan details
-2025-09-08 16:27:07 [main] INFO  utils.LoggerUtil - Screenshot captured for step: Passed Step Screenshot
-2025-09-08 16:27:07 [main] INFO  utils.LoggerUtil - Step passed in scenario: Successful EMI calculation with valid loan details
-2025-09-08 16:27:09 [main] INFO  utils.LoggerUtil - Screenshot captured for step: Passed Step Screenshot
-2025-09-08 16:27:09 [main] INFO  utils.LoggerUtil - Step passed in scenario: Successful EMI calculation with valid loan details
-2025-09-08 16:27:11 [main] INFO  utils.LoggerUtil - Screenshot captured for step: Passed Step Screenshot
-2025-09-08 16:27:11 [main] INFO  utils.LoggerUtil - Step passed in scenario: Successful EMI calculation with valid loan details
-2025-09-08 16:27:13 [main] INFO  utils.LoggerUtil - Screenshot captured for step: Passed Step Screenshot
-2025-09-08 16:27:13 [main] INFO  utils.LoggerUtil - Step passed in scenario: Successful EMI calculation with valid loan details
-2025-09-08 16:27:14 [main] INFO  utils.LoggerUtil - Screenshot captured for step: Passed Step Screenshot
-2025-09-08 16:27:14 [main] INFO  utils.LoggerUtil - Step passed in scenario: Successful EMI calculation with valid loan details
-2025-09-08 16:27:15 [main] INFO  utils.LoggerUtil - Screenshot captured for step: Failed Step Screenshot
-2025-09-08 16:27:15 [main] ERROR utils.LoggerUtil - Step failed in scenario: Successful EMI calculation with valid loan details
-2025-09-08 16:27:15 [main] ERROR utils.LoggerUtil - Scenario failed: Successful EMI calculation with valid loan details
-2025-09-08 16:27:17 [main] INFO  utils.LoggerUtil - ===== Test Execution Finished =====
-2025-09-08 16:28:47 [main] INFO  utils.LoggerUtil - ===== Test Execution Started =====
-2025-09-08 16:28:58 [main] INFO  utils.LoggerUtil - Starting scenario: Successful EMI calculation with valid loan details
-2025-09-08 16:29:00 [main] INFO  utils.LoggerUtil - Screenshot captured for step: Passed Step Screenshot
-2025-09-08 16:29:00 [main] INFO  utils.LoggerUtil - Step passed in scenario: Successful EMI calculation with valid loan details
-2025-09-08 16:30:00 [main] INFO  utils.LoggerUtil - Screenshot captured for step: Passed Step Screenshot
-2025-09-08 16:30:00 [main] INFO  utils.LoggerUtil - Step passed in scenario: Successful EMI calculation with valid loan details
-2025-09-08 16:30:02 [main] INFO  utils.LoggerUtil - Screenshot captured for step: Passed Step Screenshot
-2025-09-08 16:30:02 [main] INFO  utils.LoggerUtil - Step passed in scenario: Successful EMI calculation with valid loan details
-2025-09-08 16:30:04 [main] INFO  utils.LoggerUtil - Screenshot captured for step: Passed Step Screenshot
-2025-09-08 16:30:04 [main] INFO  utils.LoggerUtil - Step passed in scenario: Successful EMI calculation with valid loan details
-2025-09-08 16:30:06 [main] INFO  utils.LoggerUtil - Screenshot captured for step: Passed Step Screenshot
-2025-09-08 16:30:06 [main] INFO  utils.LoggerUtil - Step passed in scenario: Successful EMI calculation with valid loan details
-2025-09-08 16:30:08 [main] INFO  utils.LoggerUtil - Screenshot captured for step: Passed Step Screenshot
-2025-09-08 16:30:08 [main] INFO  utils.LoggerUtil - Step passed in scenario: Successful EMI calculation with valid loan details
-2025-09-08 16:30:09 [main] INFO  utils.LoggerUtil - Screenshot captured for step: Passed Step Screenshot
-2025-09-08 16:30:09 [main] INFO  utils.LoggerUtil - Step passed in scenario: Successful EMI calculation with valid loan details
-2025-09-08 16:30:10 [main] INFO  utils.LoggerUtil - Screenshot captured for step: Failed Step Screenshot
-2025-09-08 16:30:10 [main] ERROR utils.LoggerUtil - Step failed in scenario: Successful EMI calculation with valid loan details
-2025-09-08 16:30:10 [main] ERROR utils.LoggerUtil - Scenario failed: Successful EMI calculation with valid loan details
-2025-09-08 16:30:17 [main] INFO  utils.LoggerUtil - Starting scenario: Successful EMI calculation with valid loan details
-2025-09-08 16:30:18 [main] ERROR utils.LoggerUtil - Scenario failed: Successful EMI calculation with valid loan details
-2025-09-08 16:30:19 [main] INFO  utils.LoggerUtil - ===== Test Execution Finished =====
-2025-09-08 16:33:21 [main] INFO  utils.LoggerUtil - ===== Test Execution Started =====
-2025-09-08 16:33:28 [main] INFO  utils.LoggerUtil - Starting scenario: Successful EMI calculation with valid loan details
-2025-09-08 16:33:32 [main] INFO  utils.LoggerUtil - Screenshot captured for step: Passed Step Screenshot
-2025-09-08 16:33:32 [main] INFO  utils.LoggerUtil - Step passed in scenario: Successful EMI calculation with valid loan details
-2025-09-08 16:34:41 [main] INFO  utils.LoggerUtil - Screenshot captured for step: Passed Step Screenshot
-2025-09-08 16:34:41 [main] INFO  utils.LoggerUtil - Step passed in scenario: Successful EMI calculation with valid loan details
-2025-09-08 16:34:42 [main] INFO  utils.LoggerUtil - Screenshot captured for step: Passed Step Screenshot
-2025-09-08 16:34:42 [main] INFO  utils.LoggerUtil - Step passed in scenario: Successful EMI calculation with valid loan details
-2025-09-08 16:34:44 [main] INFO  utils.LoggerUtil - Screenshot captured for step: Passed Step Screenshot
-2025-09-08 16:34:44 [main] INFO  utils.LoggerUtil - Step passed in scenario: Successful EMI calculation with valid loan details
-2025-09-08 16:34:45 [main] INFO  utils.LoggerUtil - Screenshot captured for step: Passed Step Screenshot
-2025-09-08 16:34:45 [main] INFO  utils.LoggerUtil - Step passed in scenario: Successful EMI calculation with valid loan details
-2025-09-08 16:34:46 [main] INFO  utils.LoggerUtil - Screenshot captured for step: Passed Step Screenshot
-2025-09-08 16:34:46 [main] INFO  utils.LoggerUtil - Step passed in scenario: Successful EMI calculation with valid loan details
-2025-09-08 16:34:48 [main] INFO  utils.LoggerUtil - Screenshot captured for step: Passed Step Screenshot
-2025-09-08 16:34:48 [main] INFO  utils.LoggerUtil - Step passed in scenario: Successful EMI calculation with valid loan details
-2025-09-08 16:34:49 [main] INFO  utils.LoggerUtil - Screenshot captured for step: Failed Step Screenshot
-2025-09-08 16:34:49 [main] ERROR utils.LoggerUtil - Step failed in scenario: Successful EMI calculation with valid loan details
-2025-09-08 16:34:49 [main] ERROR utils.LoggerUtil - Scenario failed: Successful EMI calculation with valid loan details
-2025-09-08 16:34:55 [main] INFO  utils.LoggerUtil - Starting scenario: Successful EMI calculation with valid loan details
-2025-09-08 16:34:55 [main] ERROR utils.LoggerUtil - Scenario failed: Successful EMI calculation with valid loan details
-2025-09-08 16:34:56 [main] INFO  utils.LoggerUtil - ===== Test Execution Finished =====
-2025-09-08 16:36:53 [main] INFO  utils.LoggerUtil - ===== Test Execution Started =====
-2025-09-08 16:37:05 [main] INFO  utils.LoggerUtil - Starting scenario: Successful EMI calculation with valid loan details
-2025-09-08 16:37:07 [main] INFO  utils.LoggerUtil - Screenshot captured for step: Passed Step Screenshot
-2025-09-08 16:37:07 [main] INFO  utils.LoggerUtil - Step passed in scenario: Successful EMI calculation with valid loan details
-2025-09-08 16:38:03 [main] INFO  utils.LoggerUtil - Screenshot captured for step: Passed Step Screenshot
-2025-09-08 16:38:03 [main] INFO  utils.LoggerUtil - Step passed in scenario: Successful EMI calculation with valid loan details
-2025-09-08 16:38:04 [main] INFO  utils.LoggerUtil - Screenshot captured for step: Passed Step Screenshot
-2025-09-08 16:38:04 [main] INFO  utils.LoggerUtil - Step passed in scenario: Successful EMI calculation with valid loan details
-2025-09-08 16:38:06 [main] INFO  utils.LoggerUtil - Screenshot captured for step: Passed Step Screenshot
-2025-09-08 16:38:06 [main] INFO  utils.LoggerUtil - Step passed in scenario: Successful EMI calculation with valid loan details
-2025-09-08 16:38:07 [main] INFO  utils.LoggerUtil - Screenshot captured for step: Passed Step Screenshot
-2025-09-08 16:38:07 [main] INFO  utils.LoggerUtil - Step passed in scenario: Successful EMI calculation with valid loan details
-2025-09-08 16:38:09 [main] INFO  utils.LoggerUtil - Screenshot captured for step: Passed Step Screenshot
-2025-09-08 16:38:09 [main] INFO  utils.LoggerUtil - Step passed in scenario: Successful EMI calculation with valid loan details
-2025-09-08 16:38:11 [main] INFO  utils.LoggerUtil - Screenshot captured for step: Passed Step Screenshot
-2025-09-08 16:38:11 [main] INFO  utils.LoggerUtil - Step passed in scenario: Successful EMI calculation with valid loan details
-2025-09-08 16:38:12 [main] INFO  utils.LoggerUtil - Screenshot captured for step: Failed Step Screenshot
-2025-09-08 16:38:12 [main] ERROR utils.LoggerUtil - Step failed in scenario: Successful EMI calculation with valid loan details
-2025-09-08 16:38:12 [main] ERROR utils.LoggerUtil - Scenario failed: Successful EMI calculation with valid loan details
-2025-09-08 16:38:18 [main] INFO  utils.LoggerUtil - Starting scenario: Successful EMI calculation with valid loan details
-2025-09-08 16:38:19 [main] ERROR utils.LoggerUtil - Scenario failed: Successful EMI calculation with valid loan details
-2025-09-08 16:38:20 [main] INFO  utils.LoggerUtil - ===== Test Execution Finished =====
-2025-09-08 16:40:11 [main] INFO  utils.LoggerUtil - ===== Test Execution Started =====
-2025-09-08 16:40:55 [main] INFO  utils.LoggerUtil - Starting scenario: Successful EMI calculation with valid loan details
-2025-09-08 16:40:58 [main] INFO  utils.LoggerUtil - Screenshot captured for step: Passed Step Screenshot
-2025-09-08 16:40:58 [main] INFO  utils.LoggerUtil - Step passed in scenario: Successful EMI calculation with valid loan details
-2025-09-08 16:41:09 [main] INFO  utils.LoggerUtil - Screenshot captured for step: Passed Step Screenshot
-2025-09-08 16:41:09 [main] INFO  utils.LoggerUtil - Step passed in scenario: Successful EMI calculation with valid loan details
-2025-09-08 16:41:10 [main] INFO  utils.LoggerUtil - Screenshot captured for step: Passed Step Screenshot
-2025-09-08 16:41:10 [main] INFO  utils.LoggerUtil - Step passed in scenario: Successful EMI calculation with valid loan details
-2025-09-08 16:41:11 [main] INFO  utils.LoggerUtil - Screenshot captured for step: Passed Step Screenshot
-2025-09-08 16:41:11 [main] INFO  utils.LoggerUtil - Step passed in scenario: Successful EMI calculation with valid loan details
-2025-09-08 16:41:12 [main] INFO  utils.LoggerUtil - Screenshot captured for step: Passed Step Screenshot
-2025-09-08 16:41:12 [main] INFO  utils.LoggerUtil - Step passed in scenario: Successful EMI calculation with valid loan details
-2025-09-08 16:41:14 [main] INFO  utils.LoggerUtil - Screenshot captured for step: Passed Step Screenshot
-2025-09-08 16:41:14 [main] INFO  utils.LoggerUtil - Step passed in scenario: Successful EMI calculation with valid loan details
-2025-09-08 16:41:15 [main] INFO  utils.LoggerUtil - Screenshot captured for step: Passed Step Screenshot
-2025-09-08 16:41:15 [main] INFO  utils.LoggerUtil - Step passed in scenario: Successful EMI calculation with valid loan details
-2025-09-08 16:41:16 [main] INFO  utils.LoggerUtil - Screenshot captured for step: Passed Step Screenshot
-2025-09-08 16:41:16 [main] INFO  utils.LoggerUtil - Step passed in scenario: Successful EMI calculation with valid loan details
-2025-09-08 16:41:16 [main] INFO  utils.LoggerUtil - Scenario passed: Successful EMI calculation with valid loan details
-2025-09-08 16:41:23 [main] INFO  utils.LoggerUtil - Starting scenario: Successful EMI calculation with valid loan details
-2025-09-08 16:41:23 [main] ERROR utils.LoggerUtil - Scenario failed: Successful EMI calculation with valid loan details
-2025-09-08 16:41:24 [main] INFO  utils.LoggerUtil - ===== Test Execution Finished =====
-2025-09-08 16:42:29 [main] INFO  utils.LoggerUtil - ===== Test Execution Started =====
-2025-09-08 16:43:13 [main] INFO  utils.LoggerUtil - Starting scenario: EMI calculation fails with invalid loan details
-2025-09-08 16:43:18 [main] INFO  utils.LoggerUtil - Screenshot captured for step: Passed Step Screenshot
-2025-09-08 16:43:18 [main] INFO  utils.LoggerUtil - Step passed in scenario: EMI calculation fails with invalid loan details
-2025-09-08 16:43:20 [main] INFO  utils.LoggerUtil - Screenshot captured for step: Failed Step Screenshot
-2025-09-08 16:43:20 [main] ERROR utils.LoggerUtil - Step failed in scenario: EMI calculation fails with invalid loan details
-2025-09-08 16:43:20 [main] ERROR utils.LoggerUtil - Scenario failed: EMI calculation fails with invalid loan details
-2025-09-08 16:44:01 [main] INFO  utils.LoggerUtil - Starting scenario: EMI calculation fails with invalid loan details
-2025-09-08 16:44:03 [main] INFO  utils.LoggerUtil - Screenshot captured for step: Passed Step Screenshot
-2025-09-08 16:44:03 [main] INFO  utils.LoggerUtil - Step passed in scenario: EMI calculation fails with invalid loan details
-2025-09-08 16:44:04 [main] INFO  utils.LoggerUtil - Screenshot captured for step: Failed Step Screenshot
-2025-09-08 16:44:04 [main] ERROR utils.LoggerUtil - Step failed in scenario: EMI calculation fails with invalid loan details
-2025-09-08 16:44:04 [main] ERROR utils.LoggerUtil - Scenario failed: EMI calculation fails with invalid loan details
-2025-09-08 16:44:10 [main] ERROR utils.LoggerUtil - Scenario failed: EMI calculation fails with invalid loan details
-2025-09-08 16:44:11 [main] INFO  utils.LoggerUtil - ===== Test Execution Finished =====
-2025-09-08 16:57:28 [main] INFO  utils.LoggerUtil - ===== Test Execution Started =====
-2025-09-08 16:58:10 [main] INFO  utils.LoggerUtil - Starting scenario: EMI calculation fails with invalid loan details
-2025-09-08 16:58:15 [main] INFO  utils.LoggerUtil - Screenshot captured for step: Passed Step Screenshot
-2025-09-08 16:58:15 [main] INFO  utils.LoggerUtil - Step passed in scenario: EMI calculation fails with invalid loan details
-2025-09-08 16:58:17 [main] INFO  utils.LoggerUtil - Screenshot captured for step: Failed Step Screenshot
-2025-09-08 16:58:17 [main] ERROR utils.LoggerUtil - Step failed in scenario: EMI calculation fails with invalid loan details
-2025-09-08 16:58:17 [main] ERROR utils.LoggerUtil - Scenario failed: EMI calculation fails with invalid loan details
-2025-09-08 16:58:24 [main] INFO  utils.LoggerUtil - Starting scenario: EMI calculation fails with invalid loan details
-2025-09-08 16:58:24 [main] ERROR utils.LoggerUtil - Scenario failed: EMI calculation fails with invalid loan details
-2025-09-08 16:58:29 [main] INFO  utils.LoggerUtil - Starting scenario: EMI calculation fails with invalid loan details
-2025-09-08 16:58:29 [main] ERROR utils.LoggerUtil - Scenario failed: EMI calculation fails with invalid loan details
-2025-09-08 16:58:30 [main] INFO  utils.LoggerUtil - ===== Test Execution Finished =====
-2025-09-08 16:59:58 [main] INFO  utils.LoggerUtil - ===== Test Execution Started =====
-2025-09-08 17:00:39 [main] INFO  utils.LoggerUtil - Starting scenario: EMI calculation with invalid loan details
-2025-09-08 17:00:42 [main] INFO  utils.LoggerUtil - Screenshot captured for step: Passed Step Screenshot
-2025-09-08 17:00:42 [main] INFO  utils.LoggerUtil - Step passed in scenario: EMI calculation with invalid loan details
-2025-09-08 17:00:45 [main] INFO  utils.LoggerUtil - Screenshot captured for step: Failed Step Screenshot
-2025-09-08 17:00:45 [main] ERROR utils.LoggerUtil - Step failed in scenario: EMI calculation with invalid loan details
-2025-09-08 17:00:45 [main] ERROR utils.LoggerUtil - Scenario failed: EMI calculation with invalid loan details
-2025-09-08 17:00:51 [main] INFO  utils.LoggerUtil - Starting scenario: EMI calculation with invalid loan details
-2025-09-08 17:00:52 [main] ERROR utils.LoggerUtil - Scenario failed: EMI calculation with invalid loan details
-2025-09-08 17:00:57 [main] INFO  utils.LoggerUtil - Starting scenario: EMI calculation with invalid loan details
-2025-09-08 17:00:58 [main] ERROR utils.LoggerUtil - Scenario failed: EMI calculation with invalid loan details
-2025-09-08 17:00:59 [main] INFO  utils.LoggerUtil - ===== Test Execution Finished =====
-2025-09-08 17:01:57 [main] INFO  utils.LoggerUtil - ===== Test Execution Started =====
-2025-09-08 17:02:43 [main] INFO  utils.LoggerUtil - Starting scenario: EMI calculation with invalid loan details
-2025-09-08 17:02:47 [main] INFO  utils.LoggerUtil - Screenshot captured for step: Passed Step Screenshot
-2025-09-08 17:02:47 [main] INFO  utils.LoggerUtil - Step passed in scenario: EMI calculation with invalid loan details
-2025-09-08 17:02:48 [main] INFO  utils.LoggerUtil - Screenshot captured for step: Failed Step Screenshot
-2025-09-08 17:02:48 [main] ERROR utils.LoggerUtil - Step failed in scenario: EMI calculation with invalid loan details
-2025-09-08 17:02:48 [main] ERROR utils.LoggerUtil - Scenario failed: EMI calculation with invalid loan details
-2025-09-08 17:02:53 [main] INFO  utils.LoggerUtil - Starting scenario: EMI calculation with invalid loan details
-2025-09-08 17:02:53 [main] ERROR utils.LoggerUtil - Scenario failed: EMI calculation with invalid loan details
-2025-09-08 17:02:59 [main] INFO  utils.LoggerUtil - Starting scenario: EMI calculation with invalid loan details
-2025-09-08 17:02:59 [main] ERROR utils.LoggerUtil - Scenario failed: EMI calculation with invalid loan details
-2025-09-08 17:03:00 [main] INFO  utils.LoggerUtil - ===== Test Execution Finished =====
-2025-09-08 17:03:40 [main] INFO  utils.LoggerUtil - ===== Test Execution Started =====
-2025-09-08 17:03:51 [main] INFO  utils.LoggerUtil - Starting scenario: EMI calculation with invalid loan details
-2025-09-08 17:03:53 [main] INFO  utils.LoggerUtil - Screenshot captured for step: Passed Step Screenshot
-2025-09-08 17:03:53 [main] INFO  utils.LoggerUtil - Step passed in scenario: EMI calculation with invalid loan details
-2025-09-08 17:05:02 [main] INFO  utils.LoggerUtil - Screenshot captured for step: Passed Step Screenshot
-2025-09-08 17:05:02 [main] INFO  utils.LoggerUtil - Step passed in scenario: EMI calculation with invalid loan details
-2025-09-08 17:05:03 [main] INFO  utils.LoggerUtil - Screenshot captured for step: Passed Step Screenshot
-2025-09-08 17:05:03 [main] INFO  utils.LoggerUtil - Step passed in scenario: EMI calculation with invalid loan details
-2025-09-08 17:05:05 [main] INFO  utils.LoggerUtil - Screenshot captured for step: Passed Step Screenshot
-2025-09-08 17:05:05 [main] INFO  utils.LoggerUtil - Step passed in scenario: EMI calculation with invalid loan details
-2025-09-08 17:05:07 [main] INFO  utils.LoggerUtil - Screenshot captured for step: Passed Step Screenshot
-2025-09-08 17:05:07 [main] INFO  utils.LoggerUtil - Step passed in scenario: EMI calculation with invalid loan details
-2025-09-08 17:05:08 [main] INFO  utils.LoggerUtil - Screenshot captured for step: Passed Step Screenshot
-2025-09-08 17:05:08 [main] INFO  utils.LoggerUtil - Step passed in scenario: EMI calculation with invalid loan details
-2025-09-08 17:05:10 [main] INFO  utils.LoggerUtil - Screenshot captured for step: Passed Step Screenshot
-2025-09-08 17:05:10 [main] INFO  utils.LoggerUtil - Step passed in scenario: EMI calculation with invalid loan details
-2025-09-08 17:05:11 [main] INFO  utils.LoggerUtil - Screenshot captured for step: Passed Step Screenshot
-2025-09-08 17:05:11 [main] INFO  utils.LoggerUtil - Step passed in scenario: EMI calculation with invalid loan details
-2025-09-08 17:05:11 [main] INFO  utils.LoggerUtil - Scenario passed: EMI calculation with invalid loan details
-2025-09-08 17:05:22 [main] INFO  utils.LoggerUtil - Starting scenario: EMI calculation with invalid loan details
-2025-09-08 17:05:22 [main] ERROR utils.LoggerUtil - Scenario failed: EMI calculation with invalid loan details
-2025-09-08 17:05:26 [main] INFO  utils.LoggerUtil - Starting scenario: EMI calculation with invalid loan details
-2025-09-08 17:05:27 [main] ERROR utils.LoggerUtil - Scenario failed: EMI calculation with invalid loan details
-2025-09-08 17:05:28 [main] INFO  utils.LoggerUtil - ===== Test Execution Finished =====
-2025-09-08 17:06:59 [main] INFO  utils.LoggerUtil - ===== Test Execution Started =====
-2025-09-08 17:07:45 [main] INFO  utils.LoggerUtil - Starting scenario: EMI calculation with invalid loan details
-2025-09-08 17:07:49 [main] INFO  utils.LoggerUtil - Screenshot captured for step: Passed Step Screenshot
-2025-09-08 17:07:49 [main] INFO  utils.LoggerUtil - Step passed in scenario: EMI calculation with invalid loan details
-2025-09-08 17:07:58 [main] INFO  utils.LoggerUtil - Screenshot captured for step: Passed Step Screenshot
-2025-09-08 17:07:58 [main] INFO  utils.LoggerUtil - Step passed in scenario: EMI calculation with invalid loan details
-2025-09-08 17:08:01 [main] INFO  utils.LoggerUtil - Screenshot captured for step: Passed Step Screenshot
-2025-09-08 17:08:01 [main] INFO  utils.LoggerUtil - Step passed in scenario: EMI calculation with invalid loan details
-2025-09-08 17:08:02 [main] INFO  utils.LoggerUtil - Screenshot captured for step: Passed Step Screenshot
-2025-09-08 17:08:02 [main] INFO  utils.LoggerUtil - Step passed in scenario: EMI calculation with invalid loan details
-2025-09-08 17:08:03 [main] INFO  utils.LoggerUtil - Screenshot captured for step: Passed Step Screenshot
-2025-09-08 17:08:03 [main] INFO  utils.LoggerUtil - Step passed in scenario: EMI calculation with invalid loan details
-2025-09-08 17:08:05 [main] INFO  utils.LoggerUtil - Screenshot captured for step: Passed Step Screenshot
-2025-09-08 17:08:05 [main] INFO  utils.LoggerUtil - Step passed in scenario: EMI calculation with invalid loan details
-2025-09-08 17:08:06 [main] INFO  utils.LoggerUtil - Screenshot captured for step: Passed Step Screenshot
-2025-09-08 17:08:06 [main] INFO  utils.LoggerUtil - Step passed in scenario: EMI calculation with invalid loan details
-2025-09-08 17:08:07 [main] INFO  utils.LoggerUtil - Screenshot captured for step: Passed Step Screenshot
-2025-09-08 17:08:07 [main] INFO  utils.LoggerUtil - Step passed in scenario: EMI calculation with invalid loan details
-2025-09-08 17:08:07 [main] INFO  utils.LoggerUtil - Scenario passed: EMI calculation with invalid loan details
-2025-09-08 17:08:49 [main] INFO  utils.LoggerUtil - Starting scenario: EMI calculation with invalid loan details
-2025-09-08 17:08:50 [main] INFO  utils.LoggerUtil - Screenshot captured for step: Passed Step Screenshot
-2025-09-08 17:08:50 [main] INFO  utils.LoggerUtil - Step passed in scenario: EMI calculation with invalid loan details
-2025-09-08 17:09:00 [main] INFO  utils.LoggerUtil - Screenshot captured for step: Passed Step Screenshot
-2025-09-08 17:09:00 [main] INFO  utils.LoggerUtil - Step passed in scenario: EMI calculation with invalid loan details
-2025-09-08 17:09:02 [main] INFO  utils.LoggerUtil - Screenshot captured for step: Passed Step Screenshot
-2025-09-08 17:09:02 [main] INFO  utils.LoggerUtil - Step passed in scenario: EMI calculation with invalid loan details
-2025-09-08 17:09:03 [main] INFO  utils.LoggerUtil - Screenshot captured for step: Passed Step Screenshot
-2025-09-08 17:09:03 [main] INFO  utils.LoggerUtil - Step passed in scenario: EMI calculation with invalid loan details
-2025-09-08 17:09:05 [main] INFO  utils.LoggerUtil - Screenshot captured for step: Passed Step Screenshot
-2025-09-08 17:09:05 [main] INFO  utils.LoggerUtil - Step passed in scenario: EMI calculation with invalid loan details
-2025-09-08 17:09:06 [main] INFO  utils.LoggerUtil - Screenshot captured for step: Passed Step Screenshot
-2025-09-08 17:09:06 [main] INFO  utils.LoggerUtil - Step passed in scenario: EMI calculation with invalid loan details
-2025-09-08 17:09:07 [main] INFO  utils.LoggerUtil - Screenshot captured for step: Passed Step Screenshot
-2025-09-08 17:09:07 [main] INFO  utils.LoggerUtil - Step passed in scenario: EMI calculation with invalid loan details
-2025-09-08 17:09:07 [main] INFO  utils.LoggerUtil - Screenshot captured for step: Passed Step Screenshot
-2025-09-08 17:09:07 [main] INFO  utils.LoggerUtil - Step passed in scenario: EMI calculation with invalid loan details
-2025-09-08 17:09:07 [main] INFO  utils.LoggerUtil - Scenario passed: EMI calculation with invalid loan details
-2025-09-08 17:09:16 [main] INFO  utils.LoggerUtil - Starting scenario: EMI calculation with invalid loan details
-2025-09-08 17:09:16 [main] INFO  utils.LoggerUtil - Screenshot captured for step: Passed Step Screenshot
-2025-09-08 17:09:16 [main] INFO  utils.LoggerUtil - Step passed in scenario: EMI calculation with invalid loan details
-2025-09-08 17:10:08 [main] INFO  utils.LoggerUtil - Screenshot captured for step: Passed Step Screenshot
-2025-09-08 17:10:08 [main] INFO  utils.LoggerUtil - Step passed in scenario: EMI calculation with invalid loan details
-2025-09-08 17:10:09 [main] INFO  utils.LoggerUtil - Screenshot captured for step: Passed Step Screenshot
-2025-09-08 17:10:09 [main] INFO  utils.LoggerUtil - Step passed in scenario: EMI calculation with invalid loan details
-2025-09-08 17:10:10 [main] INFO  utils.LoggerUtil - Screenshot captured for step: Passed Step Screenshot
-2025-09-08 17:10:10 [main] INFO  utils.LoggerUtil - Step passed in scenario: EMI calculation with invalid loan details
-2025-09-08 17:10:12 [main] INFO  utils.LoggerUtil - Screenshot captured for step: Passed Step Screenshot
-2025-09-08 17:10:12 [main] INFO  utils.LoggerUtil - Step passed in scenario: EMI calculation with invalid loan details
-2025-09-08 17:10:14 [main] INFO  utils.LoggerUtil - Screenshot captured for step: Passed Step Screenshot
-2025-09-08 17:10:14 [main] INFO  utils.LoggerUtil - Step passed in scenario: EMI calculation with invalid loan details
-2025-09-08 17:10:15 [main] INFO  utils.LoggerUtil - Screenshot captured for step: Passed Step Screenshot
-2025-09-08 17:10:15 [main] INFO  utils.LoggerUtil - Step passed in scenario: EMI calculation with invalid loan details
-2025-09-08 17:10:16 [main] INFO  utils.LoggerUtil - Screenshot captured for step: Passed Step Screenshot
-2025-09-08 17:10:16 [main] INFO  utils.LoggerUtil - Step passed in scenario: EMI calculation with invalid loan details
-2025-09-08 17:10:16 [main] INFO  utils.LoggerUtil - Scenario passed: EMI calculation with invalid loan details
-2025-09-08 17:10:18 [main] INFO  utils.LoggerUtil - ===== Test Execution Finished =====
-2025-09-08 17:12:01 [main] INFO  utils.LoggerUtil - ===== Test Execution Started =====
-2025-09-08 17:12:28 [main] INFO  utils.LoggerUtil - Starting scenario: EMI calculation with invalid loan details
-2025-09-08 17:12:33 [main] INFO  utils.LoggerUtil - Screenshot captured for step: Passed Step Screenshot
-2025-09-08 17:12:33 [main] INFO  utils.LoggerUtil - Step passed in scenario: EMI calculation with invalid loan details
-2025-09-08 17:13:10 [main] INFO  utils.LoggerUtil - Screenshot captured for step: Passed Step Screenshot
-2025-09-08 17:13:10 [main] INFO  utils.LoggerUtil - Step passed in scenario: EMI calculation with invalid loan details
-2025-09-08 17:13:12 [main] INFO  utils.LoggerUtil - Screenshot captured for step: Passed Step Screenshot
-2025-09-08 17:13:12 [main] INFO  utils.LoggerUtil - Step passed in scenario: EMI calculation with invalid loan details
-2025-09-08 17:13:14 [main] INFO  utils.LoggerUtil - Screenshot captured for step: Passed Step Screenshot
-2025-09-08 17:13:14 [main] INFO  utils.LoggerUtil - Step passed in scenario: EMI calculation with invalid loan details
-2025-09-08 17:13:16 [main] INFO  utils.LoggerUtil - Screenshot captured for step: Passed Step Screenshot
-2025-09-08 17:13:16 [main] INFO  utils.LoggerUtil - Step passed in scenario: EMI calculation with invalid loan details
-2025-09-08 17:13:18 [main] INFO  utils.LoggerUtil - Screenshot captured for step: Passed Step Screenshot
-2025-09-08 17:13:18 [main] INFO  utils.LoggerUtil - Step passed in scenario: EMI calculation with invalid loan details
-2025-09-08 17:13:19 [main] INFO  utils.LoggerUtil - Screenshot captured for step: Passed Step Screenshot
-2025-09-08 17:13:19 [main] INFO  utils.LoggerUtil - Step passed in scenario: EMI calculation with invalid loan details
-2025-09-08 17:13:19 [main] INFO  utils.LoggerUtil - Screenshot captured for step: Failed Step Screenshot
-2025-09-08 17:13:19 [main] ERROR utils.LoggerUtil - Step failed in scenario: EMI calculation with invalid loan details
-2025-09-08 17:13:19 [main] ERROR utils.LoggerUtil - Scenario failed: EMI calculation with invalid loan details
-2025-09-08 17:13:26 [main] INFO  utils.LoggerUtil - Starting scenario: EMI calculation with invalid loan details
-2025-09-08 17:13:26 [main] ERROR utils.LoggerUtil - Scenario failed: EMI calculation with invalid loan details
-2025-09-08 17:13:31 [main] INFO  utils.LoggerUtil - Starting scenario: EMI calculation with invalid loan details
-2025-09-08 17:13:31 [main] ERROR utils.LoggerUtil - Scenario failed: EMI calculation with invalid loan details
-2025-09-08 17:13:33 [main] INFO  utils.LoggerUtil - ===== Test Execution Finished =====
-2025-09-08 17:20:55 [main] INFO  utils.LoggerUtil - ===== Test Execution Started =====
-2025-09-08 17:21:09 [main] INFO  utils.LoggerUtil - Starting scenario: EMI calculation with invalid loan details
-2025-09-08 17:21:11 [main] INFO  utils.LoggerUtil - Screenshot captured for step: Passed Step Screenshot
-2025-09-08 17:21:11 [main] INFO  utils.LoggerUtil - Step passed in scenario: EMI calculation with invalid loan details
-2025-09-08 17:22:25 [main] INFO  utils.LoggerUtil - Screenshot captured for step: Passed Step Screenshot
-2025-09-08 17:22:25 [main] INFO  utils.LoggerUtil - Step passed in scenario: EMI calculation with invalid loan details
-2025-09-08 17:22:27 [main] INFO  utils.LoggerUtil - Screenshot captured for step: Passed Step Screenshot
-2025-09-08 17:22:27 [main] INFO  utils.LoggerUtil - Step passed in scenario: EMI calculation with invalid loan details
-2025-09-08 17:22:29 [main] INFO  utils.LoggerUtil - Screenshot captured for step: Passed Step Screenshot
-2025-09-08 17:22:29 [main] INFO  utils.LoggerUtil - Step passed in scenario: EMI calculation with invalid loan details
-2025-09-08 17:22:31 [main] INFO  utils.LoggerUtil - Screenshot captured for step: Passed Step Screenshot
-2025-09-08 17:22:31 [main] INFO  utils.LoggerUtil - Step passed in scenario: EMI calculation with invalid loan details
-2025-09-08 17:22:33 [main] INFO  utils.LoggerUtil - Screenshot captured for step: Passed Step Screenshot
-2025-09-08 17:22:33 [main] INFO  utils.LoggerUtil - Step passed in scenario: EMI calculation with invalid loan details
-2025-09-08 17:22:34 [main] INFO  utils.LoggerUtil - Screenshot captured for step: Passed Step Screenshot
-2025-09-08 17:22:34 [main] INFO  utils.LoggerUtil - Step passed in scenario: EMI calculation with invalid loan details
-2025-09-08 17:22:35 [main] INFO  utils.LoggerUtil - Screenshot captured for step: Passed Step Screenshot
-2025-09-08 17:22:35 [main] INFO  utils.LoggerUtil - Step passed in scenario: EMI calculation with invalid loan details
-2025-09-08 17:22:35 [main] INFO  utils.LoggerUtil - Scenario passed: EMI calculation with invalid loan details
-2025-09-08 17:22:46 [main] INFO  utils.LoggerUtil - Starting scenario: EMI calculation with invalid loan details
-2025-09-08 17:22:47 [main] ERROR utils.LoggerUtil - Scenario failed: EMI calculation with invalid loan details
-2025-09-08 17:22:52 [main] INFO  utils.LoggerUtil - Starting scenario: EMI calculation with invalid loan details
-2025-09-08 17:22:53 [main] ERROR utils.LoggerUtil - Scenario failed: EMI calculation with invalid loan details
-2025-09-08 17:22:54 [main] INFO  utils.LoggerUtil - ===== Test Execution Finished =====
-2025-09-08 18:02:55 [main] INFO  utils.LoggerUtil - ===== Test Execution Started =====
-2025-09-08 18:03:02 [main] INFO  utils.LoggerUtil - Starting scenario: Calculate gratuity with different salary and tenure
-2025-09-08 18:03:02 [main] ERROR utils.LoggerUtil - Scenario failed: Calculate gratuity with different salary and tenure
-2025-09-08 18:03:05 [main] INFO  utils.LoggerUtil - Starting scenario: Calculate gratuity with different salary and tenure
-2025-09-08 18:03:05 [main] ERROR utils.LoggerUtil - Scenario failed: Calculate gratuity with different salary and tenure
-2025-09-08 18:03:07 [main] INFO  utils.LoggerUtil - Starting scenario: Calculate gratuity with different salary in Decimal values
-2025-09-08 18:03:07 [main] ERROR utils.LoggerUtil - Scenario failed: Calculate gratuity with different salary in Decimal values
-2025-09-08 18:03:08 [main] INFO  utils.LoggerUtil - ===== Test Execution Finished =====
-2025-09-08 18:03:55 [main] INFO  utils.LoggerUtil - ===== Test Execution Started =====
-2025-09-08 18:04:37 [main] INFO  utils.LoggerUtil - Starting scenario: Adding alphabet in Salary with numbers
-2025-09-08 18:04:38 [main] INFO  utils.LoggerUtil - Screenshot captured for step: Passed Step Screenshot
-2025-09-08 18:04:38 [main] INFO  utils.LoggerUtil - Step passed in scenario: Adding alphabet in Salary with numbers
-2025-09-08 18:04:38 [main] INFO  utils.LoggerUtil - Scenario passed: Adding alphabet in Salary with numbers
-2025-09-08 18:05:13 [main] ERROR utils.LoggerUtil - Scenario failed: Total No. of years less than 5 years
-2025-09-08 18:05:21 [main] INFO  utils.LoggerUtil - Starting scenario: Leaving Years field empty
-2025-09-08 18:05:21 [main] ERROR utils.LoggerUtil - Scenario failed: Leaving Years field empty
-2025-09-08 18:05:22 [main] INFO  utils.LoggerUtil - ===== Test Execution Finished =====
-2025-09-08 18:36:58 [main] INFO  utils.LoggerUtil - ===== Test Execution Started =====
-2025-09-08 18:37:06 [main] INFO  utils.LoggerUtil - Starting scenario: Calculate gratuity with different salary and tenure
-2025-09-08 18:37:07 [main] INFO  utils.LoggerUtil - Screenshot captured for step: Passed Step Screenshot
-2025-09-08 18:37:07 [main] INFO  utils.LoggerUtil - Step passed in scenario: Calculate gratuity with different salary and tenure
-2025-09-08 18:38:00 [main] INFO  utils.LoggerUtil - Screenshot captured for step: Passed Step Screenshot
-2025-09-08 18:38:00 [main] INFO  utils.LoggerUtil - Step passed in scenario: Calculate gratuity with different salary and tenure
-2025-09-08 18:38:11 [main] INFO  utils.LoggerUtil - Screenshot captured for step: Failed Step Screenshot
-2025-09-08 18:38:11 [main] ERROR utils.LoggerUtil - Step failed in scenario: Calculate gratuity with different salary and tenure
-2025-09-08 18:38:11 [main] ERROR utils.LoggerUtil - Scenario failed: Calculate gratuity with different salary and tenure
-2025-09-08 18:38:16 [main] INFO  utils.LoggerUtil - Starting scenario: Calculate gratuity with different salary and tenure
-2025-09-08 18:38:16 [main] ERROR utils.LoggerUtil - Scenario failed: Calculate gratuity with different salary and tenure
-2025-09-08 18:42:06 [main] INFO  utils.LoggerUtil - ===== Test Execution Started =====
-2025-09-08 18:42:14 [main] INFO  utils.LoggerUtil - Starting scenario: Calculate gratuity with different salary and tenure
-2025-09-08 18:42:14 [main] INFO  utils.LoggerUtil - Screenshot captured for step: Passed Step Screenshot
-2025-09-08 18:42:14 [main] INFO  utils.LoggerUtil - Step passed in scenario: Calculate gratuity with different salary and tenure
-2025-09-08 18:43:54 [main] INFO  utils.LoggerUtil - Screenshot captured for step: Passed Step Screenshot
-2025-09-08 18:43:54 [main] INFO  utils.LoggerUtil - Step passed in scenario: Calculate gratuity with different salary and tenure
-2025-09-08 18:44:02 [main] INFO  utils.LoggerUtil - Screenshot captured for step: Passed Step Screenshot
-2025-09-08 18:44:02 [main] INFO  utils.LoggerUtil - Step passed in scenario: Calculate gratuity with different salary and tenure
-2025-09-08 18:44:03 [main] INFO  utils.LoggerUtil - Screenshot captured for step: Passed Step Screenshot
-2025-09-08 18:44:03 [main] INFO  utils.LoggerUtil - Step passed in scenario: Calculate gratuity with different salary and tenure
-2025-09-08 18:44:04 [main] INFO  utils.LoggerUtil - Screenshot captured for step: Failed Step Screenshot
-2025-09-08 18:44:04 [main] ERROR utils.LoggerUtil - Step failed in scenario: Calculate gratuity with different salary and tenure
-2025-09-08 18:44:04 [main] ERROR utils.LoggerUtil - Scenario failed: Calculate gratuity with different salary and tenure
-2025-09-08 18:44:09 [main] INFO  utils.LoggerUtil - Starting scenario: Calculate gratuity with different salary and tenure
-2025-09-08 18:44:09 [main] ERROR utils.LoggerUtil - Scenario failed: Calculate gratuity with different salary and tenure
-2025-09-08 18:44:12 [main] INFO  utils.LoggerUtil - Starting scenario: Calculate gratuity with different salary in Decimal values
-2025-09-08 18:44:12 [main] ERROR utils.LoggerUtil - Scenario failed: Calculate gratuity with different salary in Decimal values
-2025-09-08 18:44:13 [main] INFO  utils.LoggerUtil - ===== Test Execution Finished =====
-2025-09-08 18:46:06 [main] INFO  utils.LoggerUtil - ===== Test Execution Started =====
-2025-09-08 18:47:01 [main] INFO  utils.LoggerUtil - Starting scenario: Calculate gratuity with different salary and tenure
-2025-09-08 18:47:03 [main] INFO  utils.LoggerUtil - Screenshot captured for step: Passed Step Screenshot
-2025-09-08 18:47:03 [main] INFO  utils.LoggerUtil - Step passed in scenario: Calculate gratuity with different salary and tenure
-2025-09-08 18:47:39 [main] INFO  utils.LoggerUtil - Screenshot captured for step: Passed Step Screenshot
-2025-09-08 18:47:39 [main] INFO  utils.LoggerUtil - Step passed in scenario: Calculate gratuity with different salary and tenure
-2025-09-08 18:47:43 [main] INFO  utils.LoggerUtil - Screenshot captured for step: Passed Step Screenshot
-2025-09-08 18:47:43 [main] INFO  utils.LoggerUtil - Step passed in scenario: Calculate gratuity with different salary and tenure
-2025-09-08 18:47:44 [main] INFO  utils.LoggerUtil - Screenshot captured for step: Passed Step Screenshot
-2025-09-08 18:47:44 [main] INFO  utils.LoggerUtil - Step passed in scenario: Calculate gratuity with different salary and tenure
-2025-09-08 18:47:46 [main] INFO  utils.LoggerUtil - Screenshot captured for step: Passed Step Screenshot
-2025-09-08 18:47:46 [main] INFO  utils.LoggerUtil - Step passed in scenario: Calculate gratuity with different salary and tenure
-2025-09-08 18:47:46 [main] INFO  utils.LoggerUtil - Screenshot captured for step: Passed Step Screenshot
-2025-09-08 18:47:46 [main] INFO  utils.LoggerUtil - Step passed in scenario: Calculate gratuity with different salary and tenure
-2025-09-08 18:47:47 [main] INFO  utils.LoggerUtil - Screenshot captured for step: Passed Step Screenshot
-2025-09-08 18:47:47 [main] INFO  utils.LoggerUtil - Step passed in scenario: Calculate gratuity with different salary and tenure
-2025-09-08 18:47:50 [main] INFO  utils.LoggerUtil - Screenshot captured for step: Passed Step Screenshot
-2025-09-08 18:47:50 [main] INFO  utils.LoggerUtil - Step passed in scenario: Calculate gratuity with different salary and tenure
-2025-09-08 18:47:50 [main] INFO  utils.LoggerUtil - Screenshot captured for step: Passed Step Screenshot
-2025-09-08 18:47:50 [main] INFO  utils.LoggerUtil - Step passed in scenario: Calculate gratuity with different salary and tenure
-2025-09-08 18:47:50 [main] INFO  utils.LoggerUtil - Scenario passed: Calculate gratuity with different salary and tenure
-2025-09-08 18:48:02 [main] ERROR utils.LoggerUtil - Scenario failed: Calculate gratuity with different salary and tenure
-2025-09-08 18:48:05 [main] INFO  utils.LoggerUtil - Starting scenario: Calculate gratuity with different salary in Decimal values
-2025-09-08 18:48:06 [main] ERROR utils.LoggerUtil - Scenario failed: Calculate gratuity with different salary in Decimal values
-2025-09-08 18:48:06 [main] INFO  utils.LoggerUtil - ===== Test Execution Finished =====
-2025-09-08 18:55:05 [main] INFO  utils.LoggerUtil - ===== Test Execution Started =====
-2025-09-08 18:55:13 [main] INFO  utils.LoggerUtil - Starting scenario: Calculate gratuity with different salary and tenure
-2025-09-08 18:55:14 [main] INFO  utils.LoggerUtil - Screenshot captured for step: Passed Step Screenshot
-2025-09-08 18:55:14 [main] INFO  utils.LoggerUtil - Step passed in scenario: Calculate gratuity with different salary and tenure
-2025-09-08 18:56:25 [main] INFO  utils.LoggerUtil - Screenshot captured for step: Passed Step Screenshot
-2025-09-08 18:56:25 [main] INFO  utils.LoggerUtil - Step passed in scenario: Calculate gratuity with different salary and tenure
-2025-09-08 18:56:28 [main] INFO  utils.LoggerUtil - Screenshot captured for step: Passed Step Screenshot
-2025-09-08 18:56:28 [main] INFO  utils.LoggerUtil - Step passed in scenario: Calculate gratuity with different salary and tenure
-2025-09-08 18:56:30 [main] INFO  utils.LoggerUtil - Screenshot captured for step: Passed Step Screenshot
-2025-09-08 18:56:30 [main] INFO  utils.LoggerUtil - Step passed in scenario: Calculate gratuity with different salary and tenure
-2025-09-08 18:56:31 [main] INFO  utils.LoggerUtil - Screenshot captured for step: Passed Step Screenshot
-2025-09-08 18:56:31 [main] INFO  utils.LoggerUtil - Step passed in scenario: Calculate gratuity with different salary and tenure
-2025-09-08 18:56:32 [main] INFO  utils.LoggerUtil - Screenshot captured for step: Passed Step Screenshot
-2025-09-08 18:56:32 [main] INFO  utils.LoggerUtil - Step passed in scenario: Calculate gratuity with different salary and tenure
-2025-09-08 18:56:32 [main] INFO  utils.LoggerUtil - Screenshot captured for step: Passed Step Screenshot
-2025-09-08 18:56:32 [main] INFO  utils.LoggerUtil - Step passed in scenario: Calculate gratuity with different salary and tenure
-2025-09-08 18:56:35 [main] INFO  utils.LoggerUtil - Screenshot captured for step: Passed Step Screenshot
-2025-09-08 18:56:35 [main] INFO  utils.LoggerUtil - Step passed in scenario: Calculate gratuity with different salary and tenure
-2025-09-08 18:56:35 [main] INFO  utils.LoggerUtil - Screenshot captured for step: Passed Step Screenshot
-2025-09-08 18:56:35 [main] INFO  utils.LoggerUtil - Step passed in scenario: Calculate gratuity with different salary and tenure
-2025-09-08 18:56:35 [main] INFO  utils.LoggerUtil - Scenario passed: Calculate gratuity with different salary and tenure
-2025-09-08 18:56:39 [main] INFO  utils.LoggerUtil - Starting scenario: Calculate gratuity with different salary and tenure
-2025-09-08 18:56:39 [main] ERROR utils.LoggerUtil - Scenario failed: Calculate gratuity with different salary and tenure
-2025-09-08 18:56:42 [main] INFO  utils.LoggerUtil - Starting scenario: Calculate gratuity with different salary in Decimal values
-2025-09-08 18:56:42 [main] ERROR utils.LoggerUtil - Scenario failed: Calculate gratuity with different salary in Decimal values
-2025-09-08 18:56:42 [main] INFO  utils.LoggerUtil - ===== Test Execution Finished =====
-2025-09-08 19:11:13 [main] INFO  utils.LoggerUtil - ===== Test Execution Started =====
-2025-09-08 19:11:20 [main] INFO  utils.LoggerUtil - Starting scenario: Calculate gratuity with different salary and tenure
-2025-09-08 19:11:21 [main] INFO  utils.LoggerUtil - Screenshot captured for step: Passed Step Screenshot
-2025-09-08 19:11:21 [main] INFO  utils.LoggerUtil - Step passed in scenario: Calculate gratuity with different salary and tenure
-2025-09-08 19:12:35 [main] INFO  utils.LoggerUtil - Screenshot captured for step: Passed Step Screenshot
-2025-09-08 19:12:35 [main] INFO  utils.LoggerUtil - Step passed in scenario: Calculate gratuity with different salary and tenure
-2025-09-08 19:12:51 [main] INFO  utils.LoggerUtil - Screenshot captured for step: Passed Step Screenshot
-2025-09-08 19:12:51 [main] INFO  utils.LoggerUtil - Step passed in scenario: Calculate gratuity with different salary and tenure
-2025-09-08 19:12:52 [main] INFO  utils.LoggerUtil - Screenshot captured for step: Passed Step Screenshot
-2025-09-08 19:12:52 [main] INFO  utils.LoggerUtil - Step passed in scenario: Calculate gratuity with different salary and tenure
-2025-09-08 19:12:53 [main] INFO  utils.LoggerUtil - Screenshot captured for step: Passed Step Screenshot
-2025-09-08 19:12:53 [main] INFO  utils.LoggerUtil - Step passed in scenario: Calculate gratuity with different salary and tenure
-2025-09-08 19:12:53 [main] INFO  utils.LoggerUtil - Screenshot captured for step: Passed Step Screenshot
-2025-09-08 19:12:53 [main] INFO  utils.LoggerUtil - Step passed in scenario: Calculate gratuity with different salary and tenure
-2025-09-08 19:12:54 [main] INFO  utils.LoggerUtil - Screenshot captured for step: Passed Step Screenshot
-2025-09-08 19:12:54 [main] INFO  utils.LoggerUtil - Step passed in scenario: Calculate gratuity with different salary and tenure
-2025-09-08 19:12:56 [main] INFO  utils.LoggerUtil - Screenshot captured for step: Passed Step Screenshot
-2025-09-08 19:12:56 [main] INFO  utils.LoggerUtil - Step passed in scenario: Calculate gratuity with different salary and tenure
-2025-09-08 19:12:56 [main] INFO  utils.LoggerUtil - Screenshot captured for step: Passed Step Screenshot
-2025-09-08 19:12:56 [main] INFO  utils.LoggerUtil - Step passed in scenario: Calculate gratuity with different salary and tenure
-2025-09-08 19:12:56 [main] INFO  utils.LoggerUtil - Scenario passed: Calculate gratuity with different salary and tenure
-2025-09-08 19:13:02 [main] INFO  utils.LoggerUtil - Starting scenario: Calculate gratuity with different salary and tenure
-2025-09-08 19:13:02 [main] ERROR utils.LoggerUtil - Scenario failed: Calculate gratuity with different salary and tenure
-2025-09-08 19:13:05 [main] INFO  utils.LoggerUtil - Starting scenario: Calculate gratuity with different salary in Decimal values
-2025-09-08 19:13:05 [main] ERROR utils.LoggerUtil - Scenario failed: Calculate gratuity with different salary in Decimal values
-2025-09-08 19:13:05 [main] INFO  utils.LoggerUtil - ===== Test Execution Finished =====
-2025-09-08 19:17:55 [main] INFO  utils.LoggerUtil - ===== Test Execution Started =====
-2025-09-08 19:18:33 [main] INFO  utils.LoggerUtil - Starting scenario: Adding alphabet in Salary with numbers
-2025-09-08 19:18:35 [main] INFO  utils.LoggerUtil - Screenshot captured for step: Passed Step Screenshot
-2025-09-08 19:18:35 [main] INFO  utils.LoggerUtil - Step passed in scenario: Adding alphabet in Salary with numbers
-2025-09-08 19:18:37 [main] INFO  utils.LoggerUtil - Screenshot captured for step: Failed Step Screenshot
-2025-09-08 19:18:37 [main] ERROR utils.LoggerUtil - Step failed in scenario: Adding alphabet in Salary with numbers
-2025-09-08 19:18:37 [main] ERROR utils.LoggerUtil - Scenario failed: Adding alphabet in Salary with numbers
-2025-09-08 19:18:43 [main] INFO  utils.LoggerUtil - Starting scenario: Total No. of years less than 5 years
-2025-09-08 19:18:44 [main] INFO  utils.LoggerUtil - Screenshot captured for step: Passed Step Screenshot
-2025-09-08 19:18:44 [main] INFO  utils.LoggerUtil - Step passed in scenario: Total No. of years less than 5 years
-2025-09-08 19:18:44 [main] INFO  utils.LoggerUtil - Screenshot captured for step: Failed Step Screenshot
-2025-09-08 19:18:44 [main] ERROR utils.LoggerUtil - Step failed in scenario: Total No. of years less than 5 years
-2025-09-08 19:18:44 [main] ERROR utils.LoggerUtil - Scenario failed: Total No. of years less than 5 years
-2025-09-08 19:18:50 [main] INFO  utils.LoggerUtil - Starting scenario: Leaving Years field empty
-2025-09-08 19:18:50 [main] INFO  utils.LoggerUtil - Screenshot captured for step: Passed Step Screenshot
-2025-09-08 19:18:50 [main] INFO  utils.LoggerUtil - Step passed in scenario: Leaving Years field empty
-2025-09-08 19:18:51 [main] INFO  utils.LoggerUtil - Screenshot captured for step: Failed Step Screenshot
-2025-09-08 19:18:51 [main] ERROR utils.LoggerUtil - Step failed in scenario: Leaving Years field empty
-2025-09-08 19:18:51 [main] ERROR utils.LoggerUtil - Scenario failed: Leaving Years field empty
-2025-09-08 19:18:51 [main] INFO  utils.LoggerUtil - ===== Test Execution Finished =====
-2025-09-08 19:20:23 [main] INFO  utils.LoggerUtil - ===== Test Execution Started =====
-2025-09-08 19:20:30 [main] INFO  utils.LoggerUtil - Starting scenario: Adding alphabet in Salary with numbers
-2025-09-08 19:20:32 [main] INFO  utils.LoggerUtil - Screenshot captured for step: Passed Step Screenshot
-2025-09-08 19:20:32 [main] INFO  utils.LoggerUtil - Step passed in scenario: Adding alphabet in Salary with numbers
-2025-09-08 19:21:36 [main] INFO  utils.LoggerUtil - Screenshot captured for step: Passed Step Screenshot
-2025-09-08 19:21:36 [main] INFO  utils.LoggerUtil - Step passed in scenario: Adding alphabet in Salary with numbers
-2025-09-08 19:21:40 [main] INFO  utils.LoggerUtil - Screenshot captured for step: Passed Step Screenshot
-2025-09-08 19:21:40 [main] INFO  utils.LoggerUtil - Step passed in scenario: Adding alphabet in Salary with numbers
-2025-09-08 19:21:42 [main] INFO  utils.LoggerUtil - Screenshot captured for step: Passed Step Screenshot
-2025-09-08 19:21:42 [main] INFO  utils.LoggerUtil - Step passed in scenario: Adding alphabet in Salary with numbers
-2025-09-08 19:21:46 [main] INFO  utils.LoggerUtil - Screenshot captured for step: Passed Step Screenshot
-2025-09-08 19:21:46 [main] INFO  utils.LoggerUtil - Step passed in scenario: Adding alphabet in Salary with numbers
-2025-09-08 19:21:47 [main] INFO  utils.LoggerUtil - Screenshot captured for step: Passed Step Screenshot
-2025-09-08 19:21:47 [main] INFO  utils.LoggerUtil - Step passed in scenario: Adding alphabet in Salary with numbers
-2025-09-08 19:21:48 [main] INFO  utils.LoggerUtil - Screenshot captured for step: Passed Step Screenshot
-2025-09-08 19:21:48 [main] INFO  utils.LoggerUtil - Step passed in scenario: Adding alphabet in Salary with numbers
-2025-09-08 19:21:50 [main] ERROR utils.LoggerUtil - Scenario failed: Adding alphabet in Salary with numbers
-2025-09-08 19:22:43 [main] INFO  utils.LoggerUtil - Starting scenario: Total No. of years less than 5 years
-2025-09-08 19:22:45 [main] INFO  utils.LoggerUtil - Screenshot captured for step: Passed Step Screenshot
-2025-09-08 19:22:45 [main] INFO  utils.LoggerUtil - Step passed in scenario: Total No. of years less than 5 years
-2025-09-08 19:22:59 [main] INFO  utils.LoggerUtil - Screenshot captured for step: Passed Step Screenshot
-2025-09-08 19:22:59 [main] INFO  utils.LoggerUtil - Step passed in scenario: Total No. of years less than 5 years
-2025-09-08 19:23:03 [main] INFO  utils.LoggerUtil - Screenshot captured for step: Passed Step Screenshot
-2025-09-08 19:23:03 [main] INFO  utils.LoggerUtil - Step passed in scenario: Total No. of years less than 5 years
-2025-09-08 19:23:06 [main] INFO  utils.LoggerUtil - Screenshot captured for step: Passed Step Screenshot
-2025-09-08 19:23:06 [main] INFO  utils.LoggerUtil - Step passed in scenario: Total No. of years less than 5 years
-2025-09-08 19:23:08 [main] INFO  utils.LoggerUtil - Screenshot captured for step: Passed Step Screenshot
-2025-09-08 19:23:08 [main] INFO  utils.LoggerUtil - Step passed in scenario: Total No. of years less than 5 years
-2025-09-08 19:23:09 [main] INFO  utils.LoggerUtil - Screenshot captured for step: Passed Step Screenshot
-2025-09-08 19:23:09 [main] INFO  utils.LoggerUtil - Step passed in scenario: Total No. of years less than 5 years
-2025-09-08 19:23:10 [main] INFO  utils.LoggerUtil - Screenshot captured for step: Passed Step Screenshot
-2025-09-08 19:23:10 [main] INFO  utils.LoggerUtil - Step passed in scenario: Total No. of years less than 5 years
-2025-09-08 19:23:12 [main] ERROR utils.LoggerUtil - Scenario failed: Total No. of years less than 5 years
-2025-09-08 19:23:19 [main] INFO  utils.LoggerUtil - Starting scenario: Leaving Years field empty
-2025-09-08 19:23:19 [main] INFO  utils.LoggerUtil - Screenshot captured for step: Passed Step Screenshot
-2025-09-08 19:23:19 [main] INFO  utils.LoggerUtil - Step passed in scenario: Leaving Years field empty
-2025-09-08 19:24:55 [main] INFO  utils.LoggerUtil - Screenshot captured for step: Passed Step Screenshot
-2025-09-08 19:24:55 [main] INFO  utils.LoggerUtil - Step passed in scenario: Leaving Years field empty
-2025-09-08 19:25:00 [main] INFO  utils.LoggerUtil - Screenshot captured for step: Passed Step Screenshot
-2025-09-08 19:25:00 [main] INFO  utils.LoggerUtil - Step passed in scenario: Leaving Years field empty
-2025-09-08 19:25:04 [main] INFO  utils.LoggerUtil - Screenshot captured for step: Passed Step Screenshot
-2025-09-08 19:25:04 [main] INFO  utils.LoggerUtil - Step passed in scenario: Leaving Years field empty
-2025-09-08 19:25:06 [main] INFO  utils.LoggerUtil - Screenshot captured for step: Passed Step Screenshot
-2025-09-08 19:25:06 [main] INFO  utils.LoggerUtil - Step passed in scenario: Leaving Years field empty
-2025-09-08 19:25:07 [main] INFO  utils.LoggerUtil - Screenshot captured for step: Passed Step Screenshot
-2025-09-08 19:25:07 [main] INFO  utils.LoggerUtil - Step passed in scenario: Leaving Years field empty
-2025-09-08 19:25:08 [main] INFO  utils.LoggerUtil - Screenshot captured for step: Passed Step Screenshot
-2025-09-08 19:25:08 [main] INFO  utils.LoggerUtil - Step passed in scenario: Leaving Years field empty
-2025-09-08 19:25:10 [main] ERROR utils.LoggerUtil - Scenario failed: Leaving Years field empty
-2025-09-08 19:25:11 [main] INFO  utils.LoggerUtil - ===== Test Execution Finished =====
-2025-09-08 19:35:32 [main] INFO  utils.LoggerUtil - ===== Test Execution Started =====
-2025-09-08 19:36:14 [main] INFO  utils.LoggerUtil - Starting scenario: Adding alphabet in Salary with numbers
-2025-09-08 19:36:16 [main] INFO  utils.LoggerUtil - Screenshot captured for step: Passed Step Screenshot
-2025-09-08 19:36:16 [main] INFO  utils.LoggerUtil - Step passed in scenario: Adding alphabet in Salary with numbers
-2025-09-08 19:36:44 [main] INFO  utils.LoggerUtil - Screenshot captured for step: Passed Step Screenshot
-2025-09-08 19:36:44 [main] INFO  utils.LoggerUtil - Step passed in scenario: Adding alphabet in Salary with numbers
-2025-09-08 19:37:03 [main] INFO  utils.LoggerUtil - Screenshot captured for step: Passed Step Screenshot
-2025-09-08 19:37:03 [main] INFO  utils.LoggerUtil - Step passed in scenario: Adding alphabet in Salary with numbers
-2025-09-08 19:37:04 [main] INFO  utils.LoggerUtil - Screenshot captured for step: Passed Step Screenshot
-2025-09-08 19:37:04 [main] INFO  utils.LoggerUtil - Step passed in scenario: Adding alphabet in Salary with numbers
-2025-09-08 19:37:06 [main] INFO  utils.LoggerUtil - Screenshot captured for step: Passed Step Screenshot
-2025-09-08 19:37:06 [main] INFO  utils.LoggerUtil - Step passed in scenario: Adding alphabet in Salary with numbers
-2025-09-08 19:37:07 [main] INFO  utils.LoggerUtil - Screenshot captured for step: Passed Step Screenshot
-2025-09-08 19:37:07 [main] INFO  utils.LoggerUtil - Step passed in scenario: Adding alphabet in Salary with numbers
-2025-09-08 19:37:08 [main] INFO  utils.LoggerUtil - Screenshot captured for step: Passed Step Screenshot
-2025-09-08 19:37:08 [main] INFO  utils.LoggerUtil - Step passed in scenario: Adding alphabet in Salary with numbers
-2025-09-08 19:37:10 [main] ERROR utils.LoggerUtil - Scenario failed: Adding alphabet in Salary with numbers
-2025-09-08 19:37:17 [main] INFO  utils.LoggerUtil - Starting scenario: Total No. of years less than 5 years
-2025-09-08 19:37:17 [main] INFO  utils.LoggerUtil - Screenshot captured for step: Passed Step Screenshot
-2025-09-08 19:37:17 [main] INFO  utils.LoggerUtil - Step passed in scenario: Total No. of years less than 5 years
-2025-09-08 19:37:39 [main] ERROR utils.LoggerUtil - Scenario failed: Total No. of years less than 5 years
-2025-09-08 19:37:46 [main] INFO  utils.LoggerUtil - Starting scenario: Leaving Years field empty
-2025-09-08 19:37:46 [main] ERROR utils.LoggerUtil - Scenario failed: Leaving Years field empty
-2025-09-08 19:37:46 [main] INFO  utils.LoggerUtil - ===== Test Execution Finished =====
-2025-09-08 19:38:18 [main] INFO  utils.LoggerUtil - ===== Test Execution Started =====
-2025-09-08 19:38:25 [main] INFO  utils.LoggerUtil - Starting scenario: Adding alphabet in Salary with numbers
-2025-09-08 19:38:26 [main] INFO  utils.LoggerUtil - Screenshot captured for step: Passed Step Screenshot
-2025-09-08 19:38:26 [main] INFO  utils.LoggerUtil - Step passed in scenario: Adding alphabet in Salary with numbers
-2025-09-08 19:39:22 [main] INFO  utils.LoggerUtil - Screenshot captured for step: Passed Step Screenshot
-2025-09-08 19:39:22 [main] INFO  utils.LoggerUtil - Step passed in scenario: Adding alphabet in Salary with numbers
-2025-09-08 19:39:28 [main] INFO  utils.LoggerUtil - Screenshot captured for step: Passed Step Screenshot
-2025-09-08 19:39:28 [main] INFO  utils.LoggerUtil - Step passed in scenario: Adding alphabet in Salary with numbers
-2025-09-08 19:39:30 [main] INFO  utils.LoggerUtil - Screenshot captured for step: Passed Step Screenshot
-2025-09-08 19:39:30 [main] INFO  utils.LoggerUtil - Step passed in scenario: Adding alphabet in Salary with numbers
-2025-09-08 19:39:31 [main] INFO  utils.LoggerUtil - Screenshot captured for step: Passed Step Screenshot
-2025-09-08 19:39:31 [main] INFO  utils.LoggerUtil - Step passed in scenario: Adding alphabet in Salary with numbers
-2025-09-08 19:39:32 [main] INFO  utils.LoggerUtil - Screenshot captured for step: Passed Step Screenshot
-2025-09-08 19:39:32 [main] INFO  utils.LoggerUtil - Step passed in scenario: Adding alphabet in Salary with numbers
-2025-09-08 19:39:32 [main] INFO  utils.LoggerUtil - Screenshot captured for step: Passed Step Screenshot
-2025-09-08 19:39:32 [main] INFO  utils.LoggerUtil - Step passed in scenario: Adding alphabet in Salary with numbers
-2025-09-08 19:39:33 [main] ERROR utils.LoggerUtil - Scenario failed: Adding alphabet in Salary with numbers
-2025-09-08 19:39:39 [main] INFO  utils.LoggerUtil - Starting scenario: Total No. of years less than 5 years
-2025-09-08 19:39:39 [main] INFO  utils.LoggerUtil - Screenshot captured for step: Passed Step Screenshot
-2025-09-08 19:39:39 [main] INFO  utils.LoggerUtil - Step passed in scenario: Total No. of years less than 5 years
-2025-09-08 19:41:10 [main] INFO  utils.LoggerUtil - Screenshot captured for step: Passed Step Screenshot
-2025-09-08 19:41:10 [main] INFO  utils.LoggerUtil - Step passed in scenario: Total No. of years less than 5 years
-2025-09-08 19:41:40 [main] INFO  utils.LoggerUtil - Screenshot captured for step: Passed Step Screenshot
-2025-09-08 19:41:40 [main] INFO  utils.LoggerUtil - Step passed in scenario: Total No. of years less than 5 years
-2025-09-08 19:41:41 [main] INFO  utils.LoggerUtil - Screenshot captured for step: Passed Step Screenshot
-2025-09-08 19:41:41 [main] INFO  utils.LoggerUtil - Step passed in scenario: Total No. of years less than 5 years
-2025-09-08 19:41:42 [main] INFO  utils.LoggerUtil - Screenshot captured for step: Passed Step Screenshot
-2025-09-08 19:41:42 [main] INFO  utils.LoggerUtil - Step passed in scenario: Total No. of years less than 5 years
-2025-09-08 19:41:43 [main] INFO  utils.LoggerUtil - Screenshot captured for step: Passed Step Screenshot
-2025-09-08 19:41:43 [main] INFO  utils.LoggerUtil - Step passed in scenario: Total No. of years less than 5 years
-2025-09-08 19:41:43 [main] INFO  utils.LoggerUtil - Screenshot captured for step: Passed Step Screenshot
-2025-09-08 19:41:43 [main] INFO  utils.LoggerUtil - Step passed in scenario: Total No. of years less than 5 years
-2025-09-08 19:41:44 [main] ERROR utils.LoggerUtil - Scenario failed: Total No. of years less than 5 years
-2025-09-08 19:41:48 [main] INFO  utils.LoggerUtil - Starting scenario: Leaving Years field empty
-2025-09-08 19:41:48 [main] ERROR utils.LoggerUtil - Scenario failed: Leaving Years field empty
-2025-09-08 19:41:48 [main] INFO  utils.LoggerUtil - ===== Test Execution Finished =====
-2025-09-08 19:47:26 [main] INFO  utils.LoggerUtil - ===== Test Execution Started =====
-2025-09-08 19:48:48 [main] INFO  utils.LoggerUtil - Starting scenario: Adding alphabet in Salary with numbers
-2025-09-08 19:48:50 [main] INFO  utils.LoggerUtil - Screenshot captured for step: Passed Step Screenshot
-2025-09-08 19:48:50 [main] INFO  utils.LoggerUtil - Step passed in scenario: Adding alphabet in Salary with numbers
-2025-09-08 19:49:18 [main] INFO  utils.LoggerUtil - Screenshot captured for step: Passed Step Screenshot
-2025-09-08 19:49:18 [main] INFO  utils.LoggerUtil - Step passed in scenario: Adding alphabet in Salary with numbers
-2025-09-08 19:49:42 [main] INFO  utils.LoggerUtil - Screenshot captured for step: Passed Step Screenshot
-2025-09-08 19:49:42 [main] INFO  utils.LoggerUtil - Step passed in scenario: Adding alphabet in Salary with numbers
-2025-09-08 19:49:43 [main] INFO  utils.LoggerUtil - Screenshot captured for step: Passed Step Screenshot
-2025-09-08 19:49:43 [main] INFO  utils.LoggerUtil - Step passed in scenario: Adding alphabet in Salary with numbers
-2025-09-08 19:49:44 [main] INFO  utils.LoggerUtil - Screenshot captured for step: Passed Step Screenshot
-2025-09-08 19:49:44 [main] INFO  utils.LoggerUtil - Step passed in scenario: Adding alphabet in Salary with numbers
-2025-09-08 19:49:45 [main] INFO  utils.LoggerUtil - Screenshot captured for step: Passed Step Screenshot
-2025-09-08 19:49:45 [main] INFO  utils.LoggerUtil - Step passed in scenario: Adding alphabet in Salary with numbers
-2025-09-08 19:49:45 [main] INFO  utils.LoggerUtil - Screenshot captured for step: Passed Step Screenshot
-2025-09-08 19:49:45 [main] INFO  utils.LoggerUtil - Step passed in scenario: Adding alphabet in Salary with numbers
-2025-09-08 19:49:46 [main] ERROR utils.LoggerUtil - Scenario failed: Adding alphabet in Salary with numbers
-2025-09-08 19:50:27 [main] INFO  utils.LoggerUtil - Starting scenario: Total No. of years less than 5 years
-2025-09-08 19:50:28 [main] INFO  utils.LoggerUtil - Screenshot captured for step: Passed Step Screenshot
-2025-09-08 19:50:28 [main] INFO  utils.LoggerUtil - Step passed in scenario: Total No. of years less than 5 years
-2025-09-08 19:50:33 [main] ERROR utils.LoggerUtil - Scenario failed: Total No. of years less than 5 years
-2025-09-08 19:50:37 [main] ERROR utils.LoggerUtil - Scenario failed: Leaving Years field empty
-2025-09-08 19:50:38 [main] INFO  utils.LoggerUtil - ===== Test Execution Finished =====
-2025-09-08 19:52:47 [main] INFO  utils.LoggerUtil - ===== Test Execution Started =====
-2025-09-08 19:53:30 [main] INFO  utils.LoggerUtil - Starting scenario: Calculate gratuity with different salary and tenure
-2025-09-08 19:53:32 [main] INFO  utils.LoggerUtil - Screenshot captured for step: Passed Step Screenshot
-2025-09-08 19:53:32 [main] INFO  utils.LoggerUtil - Step passed in scenario: Calculate gratuity with different salary and tenure
-2025-09-08 19:53:51 [main] INFO  utils.LoggerUtil - Screenshot captured for step: Passed Step Screenshot
-2025-09-08 19:53:51 [main] INFO  utils.LoggerUtil - Step passed in scenario: Calculate gratuity with different salary and tenure
-2025-09-08 19:53:55 [main] INFO  utils.LoggerUtil - Screenshot captured for step: Passed Step Screenshot
-2025-09-08 19:53:55 [main] INFO  utils.LoggerUtil - Step passed in scenario: Calculate gratuity with different salary and tenure
-2025-09-08 19:53:57 [main] INFO  utils.LoggerUtil - Screenshot captured for step: Passed Step Screenshot
-2025-09-08 19:53:57 [main] INFO  utils.LoggerUtil - Step passed in scenario: Calculate gratuity with different salary and tenure
-2025-09-08 19:53:58 [main] INFO  utils.LoggerUtil - Screenshot captured for step: Passed Step Screenshot
-2025-09-08 19:53:58 [main] INFO  utils.LoggerUtil - Step passed in scenario: Calculate gratuity with different salary and tenure
-2025-09-08 19:53:59 [main] INFO  utils.LoggerUtil - Screenshot captured for step: Passed Step Screenshot
-2025-09-08 19:53:59 [main] INFO  utils.LoggerUtil - Step passed in scenario: Calculate gratuity with different salary and tenure
-2025-09-08 19:53:59 [main] INFO  utils.LoggerUtil - Screenshot captured for step: Passed Step Screenshot
-2025-09-08 19:53:59 [main] INFO  utils.LoggerUtil - Step passed in scenario: Calculate gratuity with different salary and tenure
-2025-09-08 19:54:00 [main] INFO  utils.LoggerUtil - Screenshot captured for step: Passed Step Screenshot
-2025-09-08 19:54:00 [main] INFO  utils.LoggerUtil - Step passed in scenario: Calculate gratuity with different salary and tenure
-2025-09-08 19:54:00 [main] INFO  utils.LoggerUtil - Screenshot captured for step: Passed Step Screenshot
-2025-09-08 19:54:00 [main] INFO  utils.LoggerUtil - Step passed in scenario: Calculate gratuity with different salary and tenure
-2025-09-08 19:54:00 [main] INFO  utils.LoggerUtil - Scenario passed: Calculate gratuity with different salary and tenure
-2025-09-08 19:55:10 [main] INFO  utils.LoggerUtil - Starting scenario: Calculate gratuity with different salary and tenure
-2025-09-08 19:55:12 [main] INFO  utils.LoggerUtil - Screenshot captured for step: Passed Step Screenshot
-2025-09-08 19:55:12 [main] INFO  utils.LoggerUtil - Step passed in scenario: Calculate gratuity with different salary and tenure
-2025-09-08 19:55:21 [main] INFO  utils.LoggerUtil - Screenshot captured for step: Passed Step Screenshot
-2025-09-08 19:55:21 [main] INFO  utils.LoggerUtil - Step passed in scenario: Calculate gratuity with different salary and tenure
-2025-09-08 19:55:29 [main] INFO  utils.LoggerUtil - Screenshot captured for step: Passed Step Screenshot
-2025-09-08 19:55:29 [main] INFO  utils.LoggerUtil - Step passed in scenario: Calculate gratuity with different salary and tenure
-2025-09-08 19:55:30 [main] INFO  utils.LoggerUtil - Screenshot captured for step: Passed Step Screenshot
-2025-09-08 19:55:30 [main] INFO  utils.LoggerUtil - Step passed in scenario: Calculate gratuity with different salary and tenure
-2025-09-08 19:55:31 [main] INFO  utils.LoggerUtil - Screenshot captured for step: Passed Step Screenshot
-2025-09-08 19:55:31 [main] INFO  utils.LoggerUtil - Step passed in scenario: Calculate gratuity with different salary and tenure
-2025-09-08 19:55:31 [main] INFO  utils.LoggerUtil - Screenshot captured for step: Passed Step Screenshot
-2025-09-08 19:55:31 [main] INFO  utils.LoggerUtil - Step passed in scenario: Calculate gratuity with different salary and tenure
-2025-09-08 19:55:32 [main] INFO  utils.LoggerUtil - Screenshot captured for step: Passed Step Screenshot
-2025-09-08 19:55:32 [main] INFO  utils.LoggerUtil - Step passed in scenario: Calculate gratuity with different salary and tenure
-2025-09-08 19:55:33 [main] INFO  utils.LoggerUtil - Screenshot captured for step: Passed Step Screenshot
-2025-09-08 19:55:33 [main] INFO  utils.LoggerUtil - Step passed in scenario: Calculate gratuity with different salary and tenure
-2025-09-08 19:55:33 [main] INFO  utils.LoggerUtil - Screenshot captured for step: Passed Step Screenshot
-2025-09-08 19:55:33 [main] INFO  utils.LoggerUtil - Step passed in scenario: Calculate gratuity with different salary and tenure
-2025-09-08 19:55:33 [main] INFO  utils.LoggerUtil - Scenario passed: Calculate gratuity with different salary and tenure
-2025-09-08 19:55:39 [main] INFO  utils.LoggerUtil - Starting scenario: Calculate gratuity with different salary in Decimal values
-2025-09-08 19:55:40 [main] INFO  utils.LoggerUtil - Screenshot captured for step: Passed Step Screenshot
-2025-09-08 19:55:40 [main] INFO  utils.LoggerUtil - Step passed in scenario: Calculate gratuity with different salary in Decimal values
-2025-09-08 19:57:37 [main] INFO  utils.LoggerUtil - Screenshot captured for step: Passed Step Screenshot
-2025-09-08 19:57:37 [main] INFO  utils.LoggerUtil - Step passed in scenario: Calculate gratuity with different salary in Decimal values
-2025-09-08 19:59:00 [main] INFO  utils.LoggerUtil - Screenshot captured for step: Passed Step Screenshot
-2025-09-08 19:59:00 [main] INFO  utils.LoggerUtil - Step passed in scenario: Calculate gratuity with different salary in Decimal values
-2025-09-08 19:59:01 [main] INFO  utils.LoggerUtil - Screenshot captured for step: Passed Step Screenshot
-2025-09-08 19:59:01 [main] INFO  utils.LoggerUtil - Step passed in scenario: Calculate gratuity with different salary in Decimal values
-2025-09-08 19:59:03 [main] INFO  utils.LoggerUtil - Screenshot captured for step: Passed Step Screenshot
-2025-09-08 19:59:03 [main] INFO  utils.LoggerUtil - Step passed in scenario: Calculate gratuity with different salary in Decimal values
-2025-09-08 19:59:03 [main] INFO  utils.LoggerUtil - Screenshot captured for step: Passed Step Screenshot
-2025-09-08 19:59:03 [main] INFO  utils.LoggerUtil - Step passed in scenario: Calculate gratuity with different salary in Decimal values
-2025-09-08 19:59:04 [main] INFO  utils.LoggerUtil - Screenshot captured for step: Passed Step Screenshot
-2025-09-08 19:59:04 [main] INFO  utils.LoggerUtil - Step passed in scenario: Calculate gratuity with different salary in Decimal values
-2025-09-08 19:59:05 [main] INFO  utils.LoggerUtil - Screenshot captured for step: Passed Step Screenshot
-2025-09-08 19:59:05 [main] INFO  utils.LoggerUtil - Step passed in scenario: Calculate gratuity with different salary in Decimal values
-2025-09-08 19:59:05 [main] INFO  utils.LoggerUtil - Screenshot captured for step: Passed Step Screenshot
-2025-09-08 19:59:05 [main] INFO  utils.LoggerUtil - Step passed in scenario: Calculate gratuity with different salary in Decimal values
-2025-09-08 19:59:05 [main] INFO  utils.LoggerUtil - Scenario passed: Calculate gratuity with different salary in Decimal values
-2025-09-08 19:59:42 [main] INFO  utils.LoggerUtil - Starting scenario: Successful login with valid credentials using Phone Number.
-2025-09-08 19:59:44 [main] INFO  utils.LoggerUtil - Screenshot captured for step: Passed Step Screenshot
-2025-09-08 19:59:44 [main] INFO  utils.LoggerUtil - Step passed in scenario: Successful login with valid credentials using Phone Number.
-2025-09-08 19:59:47 [main] INFO  utils.LoggerUtil - Screenshot captured for step: Passed Step Screenshot
-2025-09-08 19:59:47 [main] INFO  utils.LoggerUtil - Step passed in scenario: Successful login with valid credentials using Phone Number.
-2025-09-08 19:59:49 [main] INFO  utils.LoggerUtil - Screenshot captured for step: Passed Step Screenshot
-2025-09-08 19:59:49 [main] INFO  utils.LoggerUtil - Step passed in scenario: Successful login with valid credentials using Phone Number.
-2025-09-08 20:00:35 [main] INFO  utils.LoggerUtil - Screenshot captured for step: Passed Step Screenshot
-2025-09-08 20:00:35 [main] INFO  utils.LoggerUtil - Step passed in scenario: Successful login with valid credentials using Phone Number.
-2025-09-08 20:00:36 [main] INFO  utils.LoggerUtil - Screenshot captured for step: Passed Step Screenshot
-2025-09-08 20:00:36 [main] INFO  utils.LoggerUtil - Step passed in scenario: Successful login with valid credentials using Phone Number.
-2025-09-08 20:00:48 [main] INFO  utils.LoggerUtil - Screenshot captured for step: Failed Step Screenshot
-2025-09-08 20:00:48 [main] ERROR utils.LoggerUtil - Step failed in scenario: Successful login with valid credentials using Phone Number.
-2025-09-08 20:00:48 [main] ERROR utils.LoggerUtil - Scenario failed: Successful login with valid credentials using Phone Number.
-2025-09-08 20:00:54 [main] INFO  utils.LoggerUtil - Starting scenario: Successful login with valid credentials using Email Address.
-2025-09-08 20:00:54 [main] INFO  utils.LoggerUtil - Screenshot captured for step: Passed Step Screenshot
-2025-09-08 20:00:54 [main] INFO  utils.LoggerUtil - Step passed in scenario: Successful login with valid credentials using Email Address.
-2025-09-08 20:02:27 [main] INFO  utils.LoggerUtil - Screenshot captured for step: Passed Step Screenshot
-2025-09-08 20:02:27 [main] INFO  utils.LoggerUtil - Step passed in scenario: Successful login with valid credentials using Email Address.
-2025-09-08 20:02:30 [main] INFO  utils.LoggerUtil - Screenshot captured for step: Passed Step Screenshot
-2025-09-08 20:02:30 [main] INFO  utils.LoggerUtil - Step passed in scenario: Successful login with valid credentials using Email Address.
-2025-09-08 20:03:16 [main] INFO  utils.LoggerUtil - Screenshot captured for step: Passed Step Screenshot
-2025-09-08 20:03:16 [main] INFO  utils.LoggerUtil - Step passed in scenario: Successful login with valid credentials using Email Address.
-2025-09-08 20:03:17 [main] INFO  utils.LoggerUtil - Screenshot captured for step: Passed Step Screenshot
-2025-09-08 20:03:17 [main] INFO  utils.LoggerUtil - Step passed in scenario: Successful login with valid credentials using Email Address.
-2025-09-08 20:03:28 [main] INFO  utils.LoggerUtil - Screenshot captured for step: Failed Step Screenshot
-2025-09-08 20:03:28 [main] ERROR utils.LoggerUtil - Step failed in scenario: Successful login with valid credentials using Email Address.
-2025-09-08 20:03:28 [main] ERROR utils.LoggerUtil - Scenario failed: Successful login with valid credentials using Email Address.
-2025-09-08 20:03:34 [main] INFO  utils.LoggerUtil - Starting scenario: Successful PF calculation with valid details
-2025-09-08 20:03:35 [main] INFO  utils.LoggerUtil - Screenshot captured for step: Passed Step Screenshot
-2025-09-08 20:03:35 [main] INFO  utils.LoggerUtil - Step passed in scenario: Successful PF calculation with valid details
-2025-09-08 20:05:28 [main] INFO  utils.LoggerUtil - Screenshot captured for step: Passed Step Screenshot
-2025-09-08 20:05:28 [main] INFO  utils.LoggerUtil - Step passed in scenario: Successful PF calculation with valid details
-2025-09-08 20:05:28 [main] INFO  utils.LoggerUtil - Screenshot captured for step: Passed Step Screenshot
-2025-09-08 20:05:28 [main] INFO  utils.LoggerUtil - Step passed in scenario: Successful PF calculation with valid details
-2025-09-08 20:05:29 [main] INFO  utils.LoggerUtil - Screenshot captured for step: Passed Step Screenshot
-2025-09-08 20:05:29 [main] INFO  utils.LoggerUtil - Step passed in scenario: Successful PF calculation with valid details
-2025-09-08 20:05:30 [main] INFO  utils.LoggerUtil - Screenshot captured for step: Passed Step Screenshot
-2025-09-08 20:05:30 [main] INFO  utils.LoggerUtil - Step passed in scenario: Successful PF calculation with valid details
-2025-09-08 20:05:30 [main] INFO  utils.LoggerUtil - Screenshot captured for step: Passed Step Screenshot
-2025-09-08 20:05:30 [main] INFO  utils.LoggerUtil - Step passed in scenario: Successful PF calculation with valid details
-2025-09-08 20:05:31 [main] INFO  utils.LoggerUtil - Screenshot captured for step: Passed Step Screenshot
-2025-09-08 20:05:31 [main] INFO  utils.LoggerUtil - Step passed in scenario: Successful PF calculation with valid details
-2025-09-08 20:05:31 [main] INFO  utils.LoggerUtil - Screenshot captured for step: Passed Step Screenshot
-2025-09-08 20:05:31 [main] INFO  utils.LoggerUtil - Step passed in scenario: Successful PF calculation with valid details
-2025-09-08 20:05:31 [main] INFO  utils.LoggerUtil - Screenshot captured for step: Passed Step Screenshot
-2025-09-08 20:05:31 [main] INFO  utils.LoggerUtil - Step passed in scenario: Successful PF calculation with valid details
-2025-09-08 20:05:31 [main] INFO  utils.LoggerUtil - Scenario passed: Successful PF calculation with valid details
-2025-09-08 20:06:16 [main] INFO  utils.LoggerUtil - Starting scenario: Successful PF calculation with changing contribution%
-2025-09-08 20:06:18 [main] INFO  utils.LoggerUtil - Screenshot captured for step: Passed Step Screenshot
-2025-09-08 20:06:18 [main] INFO  utils.LoggerUtil - Step passed in scenario: Successful PF calculation with changing contribution%
-2025-09-08 20:07:29 [main] INFO  utils.LoggerUtil - Screenshot captured for step: Passed Step Screenshot
-2025-09-08 20:07:29 [main] INFO  utils.LoggerUtil - Step passed in scenario: Successful PF calculation with changing contribution%
-2025-09-08 20:07:30 [main] INFO  utils.LoggerUtil - Screenshot captured for step: Passed Step Screenshot
-2025-09-08 20:07:30 [main] INFO  utils.LoggerUtil - Step passed in scenario: Successful PF calculation with changing contribution%
-2025-09-08 20:07:31 [main] INFO  utils.LoggerUtil - Screenshot captured for step: Passed Step Screenshot
-2025-09-08 20:07:31 [main] INFO  utils.LoggerUtil - Step passed in scenario: Successful PF calculation with changing contribution%
-2025-09-08 20:07:32 [main] INFO  utils.LoggerUtil - Screenshot captured for step: Passed Step Screenshot
-2025-09-08 20:07:32 [main] INFO  utils.LoggerUtil - Step passed in scenario: Successful PF calculation with changing contribution%
-2025-09-08 20:07:32 [main] INFO  utils.LoggerUtil - Screenshot captured for step: Passed Step Screenshot
-2025-09-08 20:07:32 [main] INFO  utils.LoggerUtil - Step passed in scenario: Successful PF calculation with changing contribution%
-2025-09-08 20:07:33 [main] INFO  utils.LoggerUtil - Screenshot captured for step: Passed Step Screenshot
-2025-09-08 20:07:33 [main] INFO  utils.LoggerUtil - Step passed in scenario: Successful PF calculation with changing contribution%
-2025-09-08 20:07:33 [main] INFO  utils.LoggerUtil - Screenshot captured for step: Passed Step Screenshot
-2025-09-08 20:07:33 [main] INFO  utils.LoggerUtil - Step passed in scenario: Successful PF calculation with changing contribution%
-2025-09-08 20:07:33 [main] INFO  utils.LoggerUtil - Screenshot captured for step: Passed Step Screenshot
-2025-09-08 20:07:33 [main] INFO  utils.LoggerUtil - Step passed in scenario: Successful PF calculation with changing contribution%
-2025-09-08 20:07:33 [main] INFO  utils.LoggerUtil - Scenario passed: Successful PF calculation with changing contribution%
-2025-09-08 20:08:12 [main] INFO  utils.LoggerUtil - Starting scenario: Successful EMI calculation with valid loan details
-2025-09-08 20:08:13 [main] INFO  utils.LoggerUtil - Screenshot captured for step: Passed Step Screenshot
-2025-09-08 20:08:13 [main] INFO  utils.LoggerUtil - Step passed in scenario: Successful EMI calculation with valid loan details
-2025-09-08 20:08:14 [main] INFO  utils.LoggerUtil - Screenshot captured for step: Failed Step Screenshot
-2025-09-08 20:08:14 [main] ERROR utils.LoggerUtil - Step failed in scenario: Successful EMI calculation with valid loan details
-2025-09-08 20:08:14 [main] ERROR utils.LoggerUtil - Scenario failed: Successful EMI calculation with valid loan details
-2025-09-08 20:09:02 [main] INFO  utils.LoggerUtil - Starting scenario: Successful EMI calculation with valid loan details
-2025-09-08 20:09:03 [main] INFO  utils.LoggerUtil - Screenshot captured for step: Passed Step Screenshot
-2025-09-08 20:09:03 [main] INFO  utils.LoggerUtil - Step passed in scenario: Successful EMI calculation with valid loan details
-2025-09-08 20:09:04 [main] INFO  utils.LoggerUtil - Screenshot captured for step: Failed Step Screenshot
-2025-09-08 20:09:04 [main] ERROR utils.LoggerUtil - Step failed in scenario: Successful EMI calculation with valid loan details
-2025-09-08 20:09:04 [main] ERROR utils.LoggerUtil - Scenario failed: Successful EMI calculation with valid loan details
-2025-09-08 20:09:05 [main] INFO  utils.LoggerUtil - ===== Test Execution Finished =====
+2025-09-09 10:27:29 [main] INFO  utils.LoggerUtil - ===== Test Execution Started =====
+2025-09-09 10:27:40 [main] INFO  utils.LoggerUtil - Starting scenario: Calculate gratuity with different salary and tenure
+2025-09-09 10:27:40 [main] INFO  utils.LoggerUtil - Screenshot captured for step: Passed Step Screenshot
+2025-09-09 10:27:40 [main] INFO  utils.LoggerUtil - Step passed in scenario: Calculate gratuity with different salary and tenure
+2025-09-09 10:28:37 [main] INFO  utils.LoggerUtil - Screenshot captured for step: Passed Step Screenshot
+2025-09-09 10:28:37 [main] INFO  utils.LoggerUtil - Step passed in scenario: Calculate gratuity with different salary and tenure
+2025-09-09 10:28:43 [main] INFO  utils.LoggerUtil - Screenshot captured for step: Passed Step Screenshot
+2025-09-09 10:28:43 [main] INFO  utils.LoggerUtil - Step passed in scenario: Calculate gratuity with different salary and tenure
+2025-09-09 10:28:44 [main] INFO  utils.LoggerUtil - Screenshot captured for step: Passed Step Screenshot
+2025-09-09 10:28:44 [main] INFO  utils.LoggerUtil - Step passed in scenario: Calculate gratuity with different salary and tenure
+2025-09-09 10:28:45 [main] INFO  utils.LoggerUtil - Screenshot captured for step: Passed Step Screenshot
+2025-09-09 10:28:45 [main] INFO  utils.LoggerUtil - Step passed in scenario: Calculate gratuity with different salary and tenure
+2025-09-09 10:28:46 [main] INFO  utils.LoggerUtil - Screenshot captured for step: Passed Step Screenshot
+2025-09-09 10:28:46 [main] INFO  utils.LoggerUtil - Step passed in scenario: Calculate gratuity with different salary and tenure
+2025-09-09 10:28:46 [main] INFO  utils.LoggerUtil - Screenshot captured for step: Passed Step Screenshot
+2025-09-09 10:28:46 [main] INFO  utils.LoggerUtil - Step passed in scenario: Calculate gratuity with different salary and tenure
+2025-09-09 10:28:47 [main] INFO  utils.LoggerUtil - Screenshot captured for step: Passed Step Screenshot
+2025-09-09 10:28:47 [main] INFO  utils.LoggerUtil - Step passed in scenario: Calculate gratuity with different salary and tenure
+2025-09-09 10:28:47 [main] INFO  utils.LoggerUtil - Screenshot captured for step: Failed Step Screenshot
+2025-09-09 10:28:47 [main] ERROR utils.LoggerUtil - Step failed in scenario: Calculate gratuity with different salary and tenure
+2025-09-09 10:28:47 [main] ERROR utils.LoggerUtil - Scenario failed: Calculate gratuity with different salary and tenure
+2025-09-09 10:28:57 [main] INFO  utils.LoggerUtil - Starting scenario: Calculate gratuity with different salary and tenure
+2025-09-09 10:28:58 [main] INFO  utils.LoggerUtil - Screenshot captured for step: Passed Step Screenshot
+2025-09-09 10:28:58 [main] INFO  utils.LoggerUtil - Step passed in scenario: Calculate gratuity with different salary and tenure
+2025-09-09 10:29:32 [main] ERROR utils.LoggerUtil - Scenario failed: Calculate gratuity with different salary and tenure
+2025-09-09 10:29:35 [main] INFO  utils.LoggerUtil - Starting scenario: Calculate gratuity with different salary in Decimal values
+2025-09-09 10:29:36 [main] ERROR utils.LoggerUtil - Scenario failed: Calculate gratuity with different salary in Decimal values
+2025-09-09 10:29:36 [main] INFO  utils.LoggerUtil - ===== Test Execution Finished =====
+2025-09-09 10:36:20 [main] INFO  utils.LoggerUtil - ===== Test Execution Started =====
+2025-09-09 10:36:56 [main] INFO  utils.LoggerUtil - Starting scenario: Calculate gratuity with different salary and tenure
+2025-09-09 10:36:58 [main] INFO  utils.LoggerUtil - Screenshot captured for step: Passed Step Screenshot
+2025-09-09 10:36:58 [main] INFO  utils.LoggerUtil - Step passed in scenario: Calculate gratuity with different salary and tenure
+2025-09-09 10:37:05 [main] INFO  utils.LoggerUtil - Screenshot captured for step: Passed Step Screenshot
+2025-09-09 10:37:05 [main] INFO  utils.LoggerUtil - Step passed in scenario: Calculate gratuity with different salary and tenure
+2025-09-09 10:37:10 [main] INFO  utils.LoggerUtil - Screenshot captured for step: Passed Step Screenshot
+2025-09-09 10:37:10 [main] INFO  utils.LoggerUtil - Step passed in scenario: Calculate gratuity with different salary and tenure
+2025-09-09 10:37:11 [main] INFO  utils.LoggerUtil - Screenshot captured for step: Passed Step Screenshot
+2025-09-09 10:37:11 [main] INFO  utils.LoggerUtil - Step passed in scenario: Calculate gratuity with different salary and tenure
+2025-09-09 10:37:12 [main] INFO  utils.LoggerUtil - Screenshot captured for step: Passed Step Screenshot
+2025-09-09 10:37:12 [main] INFO  utils.LoggerUtil - Step passed in scenario: Calculate gratuity with different salary and tenure
+2025-09-09 10:37:13 [main] INFO  utils.LoggerUtil - Screenshot captured for step: Passed Step Screenshot
+2025-09-09 10:37:13 [main] INFO  utils.LoggerUtil - Step passed in scenario: Calculate gratuity with different salary and tenure
+2025-09-09 10:37:14 [main] INFO  utils.LoggerUtil - Screenshot captured for step: Passed Step Screenshot
+2025-09-09 10:37:14 [main] INFO  utils.LoggerUtil - Step passed in scenario: Calculate gratuity with different salary and tenure
+2025-09-09 10:37:14 [main] INFO  utils.LoggerUtil - Screenshot captured for step: Passed Step Screenshot
+2025-09-09 10:37:14 [main] INFO  utils.LoggerUtil - Step passed in scenario: Calculate gratuity with different salary and tenure
+2025-09-09 10:37:25 [main] INFO  utils.LoggerUtil - Screenshot captured for step: Failed Step Screenshot
+2025-09-09 10:37:25 [main] ERROR utils.LoggerUtil - Step failed in scenario: Calculate gratuity with different salary and tenure
+2025-09-09 10:37:25 [main] ERROR utils.LoggerUtil - Scenario failed: Calculate gratuity with different salary and tenure
+2025-09-09 10:37:33 [main] INFO  utils.LoggerUtil - Starting scenario: Calculate gratuity with different salary and tenure
+2025-09-09 10:37:33 [main] INFO  utils.LoggerUtil - Screenshot captured for step: Passed Step Screenshot
+2025-09-09 10:37:33 [main] INFO  utils.LoggerUtil - Step passed in scenario: Calculate gratuity with different salary and tenure
+2025-09-09 10:38:19 [main] INFO  utils.LoggerUtil - Screenshot captured for step: Passed Step Screenshot
+2025-09-09 10:38:19 [main] INFO  utils.LoggerUtil - Step passed in scenario: Calculate gratuity with different salary and tenure
+2025-09-09 10:38:22 [main] INFO  utils.LoggerUtil - Screenshot captured for step: Passed Step Screenshot
+2025-09-09 10:38:22 [main] INFO  utils.LoggerUtil - Step passed in scenario: Calculate gratuity with different salary and tenure
+2025-09-09 10:38:23 [main] INFO  utils.LoggerUtil - Screenshot captured for step: Passed Step Screenshot
+2025-09-09 10:38:23 [main] INFO  utils.LoggerUtil - Step passed in scenario: Calculate gratuity with different salary and tenure
+2025-09-09 10:38:24 [main] INFO  utils.LoggerUtil - Screenshot captured for step: Passed Step Screenshot
+2025-09-09 10:38:24 [main] INFO  utils.LoggerUtil - Step passed in scenario: Calculate gratuity with different salary and tenure
+2025-09-09 10:38:25 [main] INFO  utils.LoggerUtil - Screenshot captured for step: Passed Step Screenshot
+2025-09-09 10:38:25 [main] INFO  utils.LoggerUtil - Step passed in scenario: Calculate gratuity with different salary and tenure
+2025-09-09 10:38:25 [main] INFO  utils.LoggerUtil - Screenshot captured for step: Passed Step Screenshot
+2025-09-09 10:38:25 [main] INFO  utils.LoggerUtil - Step passed in scenario: Calculate gratuity with different salary and tenure
+2025-09-09 10:38:26 [main] INFO  utils.LoggerUtil - Screenshot captured for step: Passed Step Screenshot
+2025-09-09 10:38:26 [main] INFO  utils.LoggerUtil - Step passed in scenario: Calculate gratuity with different salary and tenure
+2025-09-09 10:38:37 [main] INFO  utils.LoggerUtil - Screenshot captured for step: Failed Step Screenshot
+2025-09-09 10:38:37 [main] ERROR utils.LoggerUtil - Step failed in scenario: Calculate gratuity with different salary and tenure
+2025-09-09 10:38:37 [main] ERROR utils.LoggerUtil - Scenario failed: Calculate gratuity with different salary and tenure
+2025-09-09 10:38:42 [main] INFO  utils.LoggerUtil - Starting scenario: Calculate gratuity with different salary in Decimal values
+2025-09-09 10:38:43 [main] INFO  utils.LoggerUtil - Screenshot captured for step: Passed Step Screenshot
+2025-09-09 10:38:43 [main] INFO  utils.LoggerUtil - Step passed in scenario: Calculate gratuity with different salary in Decimal values
+2025-09-09 10:39:29 [main] INFO  utils.LoggerUtil - Screenshot captured for step: Passed Step Screenshot
+2025-09-09 10:39:29 [main] INFO  utils.LoggerUtil - Step passed in scenario: Calculate gratuity with different salary in Decimal values
+2025-09-09 10:39:34 [main] INFO  utils.LoggerUtil - Screenshot captured for step: Passed Step Screenshot
+2025-09-09 10:39:34 [main] INFO  utils.LoggerUtil - Step passed in scenario: Calculate gratuity with different salary in Decimal values
+2025-09-09 10:39:35 [main] INFO  utils.LoggerUtil - Screenshot captured for step: Passed Step Screenshot
+2025-09-09 10:39:35 [main] INFO  utils.LoggerUtil - Step passed in scenario: Calculate gratuity with different salary in Decimal values
+2025-09-09 10:39:37 [main] INFO  utils.LoggerUtil - Screenshot captured for step: Passed Step Screenshot
+2025-09-09 10:39:37 [main] INFO  utils.LoggerUtil - Step passed in scenario: Calculate gratuity with different salary in Decimal values
+2025-09-09 10:39:37 [main] INFO  utils.LoggerUtil - Screenshot captured for step: Passed Step Screenshot
+2025-09-09 10:39:37 [main] INFO  utils.LoggerUtil - Step passed in scenario: Calculate gratuity with different salary in Decimal values
+2025-09-09 10:39:38 [main] INFO  utils.LoggerUtil - Screenshot captured for step: Passed Step Screenshot
+2025-09-09 10:39:38 [main] INFO  utils.LoggerUtil - Step passed in scenario: Calculate gratuity with different salary in Decimal values
+2025-09-09 10:39:38 [main] INFO  utils.LoggerUtil - Screenshot captured for step: Passed Step Screenshot
+2025-09-09 10:39:38 [main] INFO  utils.LoggerUtil - Step passed in scenario: Calculate gratuity with different salary in Decimal values
+2025-09-09 10:39:49 [main] INFO  utils.LoggerUtil - Screenshot captured for step: Failed Step Screenshot
+2025-09-09 10:39:49 [main] ERROR utils.LoggerUtil - Step failed in scenario: Calculate gratuity with different salary in Decimal values
+2025-09-09 10:39:49 [main] ERROR utils.LoggerUtil - Scenario failed: Calculate gratuity with different salary in Decimal values
+2025-09-09 10:39:49 [main] INFO  utils.LoggerUtil - ===== Test Execution Finished =====
+2025-09-09 10:40:27 [main] INFO  utils.LoggerUtil - ===== Test Execution Started =====
+2025-09-09 10:40:34 [main] INFO  utils.LoggerUtil - Starting scenario: Calculate gratuity with different salary and tenure
+2025-09-09 10:40:35 [main] INFO  utils.LoggerUtil - Screenshot captured for step: Passed Step Screenshot
+2025-09-09 10:40:35 [main] INFO  utils.LoggerUtil - Step passed in scenario: Calculate gratuity with different salary and tenure
+2025-09-09 10:41:35 [main] INFO  utils.LoggerUtil - Screenshot captured for step: Passed Step Screenshot
+2025-09-09 10:41:35 [main] INFO  utils.LoggerUtil - Step passed in scenario: Calculate gratuity with different salary and tenure
+2025-09-09 10:41:38 [main] INFO  utils.LoggerUtil - Screenshot captured for step: Passed Step Screenshot
+2025-09-09 10:41:38 [main] INFO  utils.LoggerUtil - Step passed in scenario: Calculate gratuity with different salary and tenure
+2025-09-09 10:41:39 [main] INFO  utils.LoggerUtil - Screenshot captured for step: Passed Step Screenshot
+2025-09-09 10:41:39 [main] INFO  utils.LoggerUtil - Step passed in scenario: Calculate gratuity with different salary and tenure
+2025-09-09 10:41:41 [main] INFO  utils.LoggerUtil - Screenshot captured for step: Passed Step Screenshot
+2025-09-09 10:41:41 [main] INFO  utils.LoggerUtil - Step passed in scenario: Calculate gratuity with different salary and tenure
+2025-09-09 10:41:41 [main] INFO  utils.LoggerUtil - Screenshot captured for step: Passed Step Screenshot
+2025-09-09 10:41:41 [main] INFO  utils.LoggerUtil - Step passed in scenario: Calculate gratuity with different salary and tenure
+2025-09-09 10:41:42 [main] INFO  utils.LoggerUtil - Screenshot captured for step: Passed Step Screenshot
+2025-09-09 10:41:42 [main] INFO  utils.LoggerUtil - Step passed in scenario: Calculate gratuity with different salary and tenure
+2025-09-09 10:41:42 [main] INFO  utils.LoggerUtil - Screenshot captured for step: Passed Step Screenshot
+2025-09-09 10:41:42 [main] INFO  utils.LoggerUtil - Step passed in scenario: Calculate gratuity with different salary and tenure
+2025-09-09 10:41:43 [main] INFO  utils.LoggerUtil - Screenshot captured for step: Failed Step Screenshot
+2025-09-09 10:41:43 [main] ERROR utils.LoggerUtil - Step failed in scenario: Calculate gratuity with different salary and tenure
+2025-09-09 10:41:43 [main] ERROR utils.LoggerUtil - Scenario failed: Calculate gratuity with different salary and tenure
+2025-09-09 10:41:48 [main] INFO  utils.LoggerUtil - Starting scenario: Calculate gratuity with different salary and tenure
+2025-09-09 10:41:48 [main] ERROR utils.LoggerUtil - Scenario failed: Calculate gratuity with different salary and tenure
+2025-09-09 10:41:50 [main] INFO  utils.LoggerUtil - Starting scenario: Calculate gratuity with different salary in Decimal values
+2025-09-09 10:41:51 [main] ERROR utils.LoggerUtil - Scenario failed: Calculate gratuity with different salary in Decimal values
+2025-09-09 10:41:51 [main] INFO  utils.LoggerUtil - ===== Test Execution Finished =====
+2025-09-09 10:46:35 [main] INFO  utils.LoggerUtil - ===== Test Execution Started =====
+2025-09-09 10:46:42 [main] INFO  utils.LoggerUtil - Starting scenario: Calculate gratuity with different salary and tenure
+2025-09-09 10:46:43 [main] INFO  utils.LoggerUtil - Screenshot captured for step: Passed Step Screenshot
+2025-09-09 10:46:43 [main] INFO  utils.LoggerUtil - Step passed in scenario: Calculate gratuity with different salary and tenure
+2025-09-09 10:47:29 [main] INFO  utils.LoggerUtil - Screenshot captured for step: Passed Step Screenshot
+2025-09-09 10:47:29 [main] INFO  utils.LoggerUtil - Step passed in scenario: Calculate gratuity with different salary and tenure
+2025-09-09 10:47:34 [main] INFO  utils.LoggerUtil - Screenshot captured for step: Passed Step Screenshot
+2025-09-09 10:47:34 [main] INFO  utils.LoggerUtil - Step passed in scenario: Calculate gratuity with different salary and tenure
+2025-09-09 10:47:35 [main] INFO  utils.LoggerUtil - Screenshot captured for step: Passed Step Screenshot
+2025-09-09 10:47:35 [main] INFO  utils.LoggerUtil - Step passed in scenario: Calculate gratuity with different salary and tenure
+2025-09-09 10:47:37 [main] INFO  utils.LoggerUtil - Screenshot captured for step: Passed Step Screenshot
+2025-09-09 10:47:37 [main] INFO  utils.LoggerUtil - Step passed in scenario: Calculate gratuity with different salary and tenure
+2025-09-09 10:47:37 [main] INFO  utils.LoggerUtil - Screenshot captured for step: Passed Step Screenshot
+2025-09-09 10:47:37 [main] INFO  utils.LoggerUtil - Step passed in scenario: Calculate gratuity with different salary and tenure
+2025-09-09 10:47:38 [main] INFO  utils.LoggerUtil - Screenshot captured for step: Passed Step Screenshot
+2025-09-09 10:47:38 [main] INFO  utils.LoggerUtil - Step passed in scenario: Calculate gratuity with different salary and tenure
+2025-09-09 10:47:38 [main] INFO  utils.LoggerUtil - Screenshot captured for step: Passed Step Screenshot
+2025-09-09 10:47:38 [main] INFO  utils.LoggerUtil - Step passed in scenario: Calculate gratuity with different salary and tenure
+2025-09-09 10:47:38 [main] INFO  utils.LoggerUtil - Screenshot captured for step: Failed Step Screenshot
+2025-09-09 10:47:38 [main] ERROR utils.LoggerUtil - Step failed in scenario: Calculate gratuity with different salary and tenure
+2025-09-09 10:47:38 [main] ERROR utils.LoggerUtil - Scenario failed: Calculate gratuity with different salary and tenure
+2025-09-09 10:47:42 [main] INFO  utils.LoggerUtil - Starting scenario: Calculate gratuity with different salary and tenure
+2025-09-09 10:47:42 [main] ERROR utils.LoggerUtil - Scenario failed: Calculate gratuity with different salary and tenure
+2025-09-09 10:47:44 [main] INFO  utils.LoggerUtil - Starting scenario: Calculate gratuity with different salary in Decimal values
+2025-09-09 10:47:45 [main] ERROR utils.LoggerUtil - Scenario failed: Calculate gratuity with different salary in Decimal values
+2025-09-09 10:47:45 [main] INFO  utils.LoggerUtil - ===== Test Execution Finished =====
+2025-09-09 10:55:09 [main] INFO  utils.LoggerUtil - ===== Test Execution Started =====
+2025-09-09 10:55:46 [main] INFO  utils.LoggerUtil - Starting scenario: Calculate gratuity with different salary and tenure
+2025-09-09 10:55:48 [main] INFO  utils.LoggerUtil - Screenshot captured for step: Passed Step Screenshot
+2025-09-09 10:55:48 [main] INFO  utils.LoggerUtil - Step passed in scenario: Calculate gratuity with different salary and tenure
+2025-09-09 10:55:53 [main] INFO  utils.LoggerUtil - Screenshot captured for step: Passed Step Screenshot
+2025-09-09 10:55:53 [main] INFO  utils.LoggerUtil - Step passed in scenario: Calculate gratuity with different salary and tenure
+2025-09-09 10:55:59 [main] INFO  utils.LoggerUtil - Screenshot captured for step: Passed Step Screenshot
+2025-09-09 10:55:59 [main] INFO  utils.LoggerUtil - Step passed in scenario: Calculate gratuity with different salary and tenure
+2025-09-09 10:56:00 [main] INFO  utils.LoggerUtil - Screenshot captured for step: Passed Step Screenshot
+2025-09-09 10:56:00 [main] INFO  utils.LoggerUtil - Step passed in scenario: Calculate gratuity with different salary and tenure
+2025-09-09 10:56:01 [main] INFO  utils.LoggerUtil - Screenshot captured for step: Passed Step Screenshot
+2025-09-09 10:56:01 [main] INFO  utils.LoggerUtil - Step passed in scenario: Calculate gratuity with different salary and tenure
+2025-09-09 10:56:02 [main] INFO  utils.LoggerUtil - Screenshot captured for step: Passed Step Screenshot
+2025-09-09 10:56:02 [main] INFO  utils.LoggerUtil - Step passed in scenario: Calculate gratuity with different salary and tenure
+2025-09-09 10:56:02 [main] INFO  utils.LoggerUtil - Screenshot captured for step: Passed Step Screenshot
+2025-09-09 10:56:02 [main] INFO  utils.LoggerUtil - Step passed in scenario: Calculate gratuity with different salary and tenure
+2025-09-09 10:56:03 [main] INFO  utils.LoggerUtil - Screenshot captured for step: Passed Step Screenshot
+2025-09-09 10:56:03 [main] INFO  utils.LoggerUtil - Step passed in scenario: Calculate gratuity with different salary and tenure
+2025-09-09 10:56:03 [main] INFO  utils.LoggerUtil - Screenshot captured for step: Failed Step Screenshot
+2025-09-09 10:56:03 [main] ERROR utils.LoggerUtil - Step failed in scenario: Calculate gratuity with different salary and tenure
+2025-09-09 10:56:03 [main] ERROR utils.LoggerUtil - Scenario failed: Calculate gratuity with different salary and tenure
+2025-09-09 10:56:07 [main] INFO  utils.LoggerUtil - Starting scenario: Calculate gratuity with different salary and tenure
+2025-09-09 10:56:07 [main] ERROR utils.LoggerUtil - Scenario failed: Calculate gratuity with different salary and tenure
+2025-09-09 10:56:09 [main] INFO  utils.LoggerUtil - Starting scenario: Calculate gratuity with different salary in Decimal values
+2025-09-09 10:56:10 [main] ERROR utils.LoggerUtil - Scenario failed: Calculate gratuity with different salary in Decimal values
+2025-09-09 10:56:10 [main] INFO  utils.LoggerUtil - ===== Test Execution Finished =====
+2025-09-09 11:00:18 [main] INFO  utils.LoggerUtil - ===== Test Execution Started =====
+2025-09-09 11:00:55 [main] INFO  utils.LoggerUtil - Starting scenario: Calculate gratuity with different salary and tenure
+2025-09-09 11:00:57 [main] INFO  utils.LoggerUtil - Screenshot captured for step: Passed Step Screenshot
+2025-09-09 11:00:57 [main] INFO  utils.LoggerUtil - Step passed in scenario: Calculate gratuity with different salary and tenure
+2025-09-09 11:01:04 [main] INFO  utils.LoggerUtil - Screenshot captured for step: Passed Step Screenshot
+2025-09-09 11:01:04 [main] INFO  utils.LoggerUtil - Step passed in scenario: Calculate gratuity with different salary and tenure
+2025-09-09 11:01:08 [main] INFO  utils.LoggerUtil - Screenshot captured for step: Passed Step Screenshot
+2025-09-09 11:01:08 [main] INFO  utils.LoggerUtil - Step passed in scenario: Calculate gratuity with different salary and tenure
+2025-09-09 11:01:10 [main] INFO  utils.LoggerUtil - Screenshot captured for step: Passed Step Screenshot
+2025-09-09 11:01:10 [main] INFO  utils.LoggerUtil - Step passed in scenario: Calculate gratuity with different salary and tenure
+2025-09-09 11:01:11 [main] INFO  utils.LoggerUtil - Screenshot captured for step: Passed Step Screenshot
+2025-09-09 11:01:11 [main] INFO  utils.LoggerUtil - Step passed in scenario: Calculate gratuity with different salary and tenure
+2025-09-09 11:01:11 [main] INFO  utils.LoggerUtil - Screenshot captured for step: Passed Step Screenshot
+2025-09-09 11:01:11 [main] INFO  utils.LoggerUtil - Step passed in scenario: Calculate gratuity with different salary and tenure
+2025-09-09 11:01:12 [main] INFO  utils.LoggerUtil - Screenshot captured for step: Passed Step Screenshot
+2025-09-09 11:01:12 [main] INFO  utils.LoggerUtil - Step passed in scenario: Calculate gratuity with different salary and tenure
+2025-09-09 11:01:12 [main] INFO  utils.LoggerUtil - Screenshot captured for step: Passed Step Screenshot
+2025-09-09 11:01:12 [main] INFO  utils.LoggerUtil - Step passed in scenario: Calculate gratuity with different salary and tenure
+2025-09-09 11:01:13 [main] INFO  utils.LoggerUtil - Screenshot captured for step: Failed Step Screenshot
+2025-09-09 11:01:13 [main] ERROR utils.LoggerUtil - Step failed in scenario: Calculate gratuity with different salary and tenure
+2025-09-09 11:01:13 [main] ERROR utils.LoggerUtil - Scenario failed: Calculate gratuity with different salary and tenure
+2025-09-09 11:01:17 [main] INFO  utils.LoggerUtil - Starting scenario: Calculate gratuity with different salary and tenure
+2025-09-09 11:01:17 [main] ERROR utils.LoggerUtil - Scenario failed: Calculate gratuity with different salary and tenure
+2025-09-09 11:01:20 [main] INFO  utils.LoggerUtil - Starting scenario: Calculate gratuity with different salary in Decimal values
+2025-09-09 11:01:20 [main] ERROR utils.LoggerUtil - Scenario failed: Calculate gratuity with different salary in Decimal values
+2025-09-09 11:01:20 [main] INFO  utils.LoggerUtil - ===== Test Execution Finished =====
+2025-09-09 11:03:34 [main] INFO  utils.LoggerUtil - ===== Test Execution Started =====
+2025-09-09 11:03:41 [main] INFO  utils.LoggerUtil - Starting scenario: Calculate gratuity with different salary and tenure
+2025-09-09 11:03:42 [main] INFO  utils.LoggerUtil - Screenshot captured for step: Passed Step Screenshot
+2025-09-09 11:03:42 [main] INFO  utils.LoggerUtil - Step passed in scenario: Calculate gratuity with different salary and tenure
+2025-09-09 11:04:28 [main] INFO  utils.LoggerUtil - Screenshot captured for step: Passed Step Screenshot
+2025-09-09 11:04:28 [main] INFO  utils.LoggerUtil - Step passed in scenario: Calculate gratuity with different salary and tenure
+2025-09-09 11:04:34 [main] INFO  utils.LoggerUtil - Screenshot captured for step: Passed Step Screenshot
+2025-09-09 11:04:34 [main] INFO  utils.LoggerUtil - Step passed in scenario: Calculate gratuity with different salary and tenure
+2025-09-09 11:04:35 [main] INFO  utils.LoggerUtil - Screenshot captured for step: Passed Step Screenshot
+2025-09-09 11:04:35 [main] INFO  utils.LoggerUtil - Step passed in scenario: Calculate gratuity with different salary and tenure
+2025-09-09 11:04:36 [main] INFO  utils.LoggerUtil - Screenshot captured for step: Passed Step Screenshot
+2025-09-09 11:04:36 [main] INFO  utils.LoggerUtil - Step passed in scenario: Calculate gratuity with different salary and tenure
+2025-09-09 11:04:37 [main] INFO  utils.LoggerUtil - Screenshot captured for step: Passed Step Screenshot
+2025-09-09 11:04:37 [main] INFO  utils.LoggerUtil - Step passed in scenario: Calculate gratuity with different salary and tenure
+2025-09-09 11:04:37 [main] INFO  utils.LoggerUtil - Screenshot captured for step: Passed Step Screenshot
+2025-09-09 11:04:37 [main] INFO  utils.LoggerUtil - Step passed in scenario: Calculate gratuity with different salary and tenure
+2025-09-09 11:04:38 [main] INFO  utils.LoggerUtil - Screenshot captured for step: Passed Step Screenshot
+2025-09-09 11:04:38 [main] INFO  utils.LoggerUtil - Step passed in scenario: Calculate gratuity with different salary and tenure
+2025-09-09 11:04:38 [main] INFO  utils.LoggerUtil - Screenshot captured for step: Failed Step Screenshot
+2025-09-09 11:04:38 [main] ERROR utils.LoggerUtil - Step failed in scenario: Calculate gratuity with different salary and tenure
+2025-09-09 11:04:38 [main] ERROR utils.LoggerUtil - Scenario failed: Calculate gratuity with different salary and tenure
+2025-09-09 11:04:43 [main] INFO  utils.LoggerUtil - Starting scenario: Calculate gratuity with different salary and tenure
+2025-09-09 11:04:43 [main] ERROR utils.LoggerUtil - Scenario failed: Calculate gratuity with different salary and tenure
+2025-09-09 11:04:46 [main] INFO  utils.LoggerUtil - Starting scenario: Calculate gratuity with different salary in Decimal values
+2025-09-09 11:04:46 [main] ERROR utils.LoggerUtil - Scenario failed: Calculate gratuity with different salary in Decimal values
+2025-09-09 11:04:46 [main] INFO  utils.LoggerUtil - ===== Test Execution Finished =====
+2025-09-09 11:13:49 [main] INFO  utils.LoggerUtil - ===== Test Execution Started =====
+2025-09-09 11:13:56 [main] INFO  utils.LoggerUtil - Starting scenario: Calculate gratuity with different salary and tenure
+2025-09-09 11:13:57 [main] INFO  utils.LoggerUtil - Screenshot captured for step: Passed Step Screenshot
+2025-09-09 11:13:57 [main] INFO  utils.LoggerUtil - Step passed in scenario: Calculate gratuity with different salary and tenure
+2025-09-09 11:14:43 [main] INFO  utils.LoggerUtil - Screenshot captured for step: Passed Step Screenshot
+2025-09-09 11:14:43 [main] INFO  utils.LoggerUtil - Step passed in scenario: Calculate gratuity with different salary and tenure
+2025-09-09 11:14:50 [main] INFO  utils.LoggerUtil - Screenshot captured for step: Passed Step Screenshot
+2025-09-09 11:14:50 [main] INFO  utils.LoggerUtil - Step passed in scenario: Calculate gratuity with different salary and tenure
+2025-09-09 11:14:51 [main] INFO  utils.LoggerUtil - Screenshot captured for step: Passed Step Screenshot
+2025-09-09 11:14:51 [main] INFO  utils.LoggerUtil - Step passed in scenario: Calculate gratuity with different salary and tenure
+2025-09-09 11:14:53 [main] INFO  utils.LoggerUtil - Screenshot captured for step: Passed Step Screenshot
+2025-09-09 11:14:53 [main] INFO  utils.LoggerUtil - Step passed in scenario: Calculate gratuity with different salary and tenure
+2025-09-09 11:14:53 [main] INFO  utils.LoggerUtil - Screenshot captured for step: Passed Step Screenshot
+2025-09-09 11:14:53 [main] INFO  utils.LoggerUtil - Step passed in scenario: Calculate gratuity with different salary and tenure
+2025-09-09 11:14:54 [main] INFO  utils.LoggerUtil - Screenshot captured for step: Passed Step Screenshot
+2025-09-09 11:14:54 [main] INFO  utils.LoggerUtil - Step passed in scenario: Calculate gratuity with different salary and tenure
+2025-09-09 11:14:55 [main] INFO  utils.LoggerUtil - Screenshot captured for step: Passed Step Screenshot
+2025-09-09 11:14:55 [main] INFO  utils.LoggerUtil - Step passed in scenario: Calculate gratuity with different salary and tenure
+2025-09-09 11:14:55 [main] INFO  utils.LoggerUtil - Screenshot captured for step: Passed Step Screenshot
+2025-09-09 11:14:55 [main] INFO  utils.LoggerUtil - Step passed in scenario: Calculate gratuity with different salary and tenure
+2025-09-09 11:14:55 [main] INFO  utils.LoggerUtil - Scenario passed: Calculate gratuity with different salary and tenure
+2025-09-09 11:15:30 [main] INFO  utils.LoggerUtil - Starting scenario: Calculate gratuity with different salary and tenure
+2025-09-09 11:15:31 [main] INFO  utils.LoggerUtil - Screenshot captured for step: Passed Step Screenshot
+2025-09-09 11:15:31 [main] INFO  utils.LoggerUtil - Step passed in scenario: Calculate gratuity with different salary and tenure
+2025-09-09 11:15:39 [main] INFO  utils.LoggerUtil - Screenshot captured for step: Passed Step Screenshot
+2025-09-09 11:15:39 [main] INFO  utils.LoggerUtil - Step passed in scenario: Calculate gratuity with different salary and tenure
+2025-09-09 11:15:47 [main] INFO  utils.LoggerUtil - Screenshot captured for step: Passed Step Screenshot
+2025-09-09 11:15:47 [main] INFO  utils.LoggerUtil - Step passed in scenario: Calculate gratuity with different salary and tenure
+2025-09-09 11:15:48 [main] INFO  utils.LoggerUtil - Screenshot captured for step: Passed Step Screenshot
+2025-09-09 11:15:48 [main] INFO  utils.LoggerUtil - Step passed in scenario: Calculate gratuity with different salary and tenure
+2025-09-09 11:15:49 [main] INFO  utils.LoggerUtil - Screenshot captured for step: Passed Step Screenshot
+2025-09-09 11:15:49 [main] INFO  utils.LoggerUtil - Step passed in scenario: Calculate gratuity with different salary and tenure
+2025-09-09 11:15:49 [main] INFO  utils.LoggerUtil - Screenshot captured for step: Passed Step Screenshot
+2025-09-09 11:15:49 [main] INFO  utils.LoggerUtil - Step passed in scenario: Calculate gratuity with different salary and tenure
+2025-09-09 11:15:50 [main] INFO  utils.LoggerUtil - Screenshot captured for step: Passed Step Screenshot
+2025-09-09 11:15:50 [main] INFO  utils.LoggerUtil - Step passed in scenario: Calculate gratuity with different salary and tenure
+2025-09-09 11:15:50 [main] INFO  utils.LoggerUtil - Screenshot captured for step: Passed Step Screenshot
+2025-09-09 11:15:50 [main] INFO  utils.LoggerUtil - Step passed in scenario: Calculate gratuity with different salary and tenure
+2025-09-09 11:15:51 [main] INFO  utils.LoggerUtil - Screenshot captured for step: Passed Step Screenshot
+2025-09-09 11:15:51 [main] INFO  utils.LoggerUtil - Step passed in scenario: Calculate gratuity with different salary and tenure
+2025-09-09 11:15:51 [main] INFO  utils.LoggerUtil - Scenario passed: Calculate gratuity with different salary and tenure
+2025-09-09 11:15:56 [main] INFO  utils.LoggerUtil - Starting scenario: Calculate gratuity with different salary in Decimal values
+2025-09-09 11:15:56 [main] INFO  utils.LoggerUtil - Screenshot captured for step: Passed Step Screenshot
+2025-09-09 11:15:56 [main] INFO  utils.LoggerUtil - Step passed in scenario: Calculate gratuity with different salary in Decimal values
+2025-09-09 11:16:24 [main] INFO  utils.LoggerUtil - Screenshot captured for step: Passed Step Screenshot
+2025-09-09 11:16:24 [main] INFO  utils.LoggerUtil - Step passed in scenario: Calculate gratuity with different salary in Decimal values
+2025-09-09 11:16:30 [main] INFO  utils.LoggerUtil - Screenshot captured for step: Passed Step Screenshot
+2025-09-09 11:16:30 [main] INFO  utils.LoggerUtil - Step passed in scenario: Calculate gratuity with different salary in Decimal values
+2025-09-09 11:16:31 [main] INFO  utils.LoggerUtil - Screenshot captured for step: Passed Step Screenshot
+2025-09-09 11:16:31 [main] INFO  utils.LoggerUtil - Step passed in scenario: Calculate gratuity with different salary in Decimal values
+2025-09-09 11:16:32 [main] INFO  utils.LoggerUtil - Screenshot captured for step: Passed Step Screenshot
+2025-09-09 11:16:32 [main] INFO  utils.LoggerUtil - Step passed in scenario: Calculate gratuity with different salary in Decimal values
+2025-09-09 11:16:33 [main] INFO  utils.LoggerUtil - Screenshot captured for step: Passed Step Screenshot
+2025-09-09 11:16:33 [main] INFO  utils.LoggerUtil - Step passed in scenario: Calculate gratuity with different salary in Decimal values
+2025-09-09 11:16:33 [main] INFO  utils.LoggerUtil - Screenshot captured for step: Passed Step Screenshot
+2025-09-09 11:16:33 [main] INFO  utils.LoggerUtil - Step passed in scenario: Calculate gratuity with different salary in Decimal values
+2025-09-09 11:16:34 [main] INFO  utils.LoggerUtil - Screenshot captured for step: Passed Step Screenshot
+2025-09-09 11:16:34 [main] INFO  utils.LoggerUtil - Step passed in scenario: Calculate gratuity with different salary in Decimal values
+2025-09-09 11:16:34 [main] INFO  utils.LoggerUtil - Screenshot captured for step: Failed Step Screenshot
+2025-09-09 11:16:34 [main] ERROR utils.LoggerUtil - Step failed in scenario: Calculate gratuity with different salary in Decimal values
+2025-09-09 11:16:34 [main] ERROR utils.LoggerUtil - Scenario failed: Calculate gratuity with different salary in Decimal values
+2025-09-09 11:16:35 [main] INFO  utils.LoggerUtil - ===== Test Execution Finished =====
+2025-09-09 11:18:05 [main] INFO  utils.LoggerUtil - ===== Test Execution Started =====
+2025-09-09 11:18:42 [main] INFO  utils.LoggerUtil - Starting scenario: Adding alphabet in Salary with numbers
+2025-09-09 11:18:44 [main] INFO  utils.LoggerUtil - Screenshot captured for step: Passed Step Screenshot
+2025-09-09 11:18:44 [main] INFO  utils.LoggerUtil - Step passed in scenario: Adding alphabet in Salary with numbers
+2025-09-09 11:18:51 [main] INFO  utils.LoggerUtil - Screenshot captured for step: Passed Step Screenshot
+2025-09-09 11:18:51 [main] INFO  utils.LoggerUtil - Step passed in scenario: Adding alphabet in Salary with numbers
+2025-09-09 11:18:57 [main] INFO  utils.LoggerUtil - Screenshot captured for step: Passed Step Screenshot
+2025-09-09 11:18:57 [main] INFO  utils.LoggerUtil - Step passed in scenario: Adding alphabet in Salary with numbers
+2025-09-09 11:18:58 [main] INFO  utils.LoggerUtil - Screenshot captured for step: Passed Step Screenshot
+2025-09-09 11:18:58 [main] INFO  utils.LoggerUtil - Step passed in scenario: Adding alphabet in Salary with numbers
+2025-09-09 11:19:00 [main] INFO  utils.LoggerUtil - Screenshot captured for step: Passed Step Screenshot
+2025-09-09 11:19:00 [main] INFO  utils.LoggerUtil - Step passed in scenario: Adding alphabet in Salary with numbers
+2025-09-09 11:19:00 [main] INFO  utils.LoggerUtil - Screenshot captured for step: Passed Step Screenshot
+2025-09-09 11:19:00 [main] INFO  utils.LoggerUtil - Step passed in scenario: Adding alphabet in Salary with numbers
+2025-09-09 11:19:01 [main] INFO  utils.LoggerUtil - Screenshot captured for step: Passed Step Screenshot
+2025-09-09 11:19:01 [main] INFO  utils.LoggerUtil - Step passed in scenario: Adding alphabet in Salary with numbers
+2025-09-09 11:19:01 [main] ERROR utils.LoggerUtil - Scenario failed: Adding alphabet in Salary with numbers
+2025-09-09 11:19:07 [main] INFO  utils.LoggerUtil - Starting scenario: Total No. of years less than 5 years
+2025-09-09 11:19:07 [main] INFO  utils.LoggerUtil - Screenshot captured for step: Passed Step Screenshot
+2025-09-09 11:19:07 [main] INFO  utils.LoggerUtil - Step passed in scenario: Total No. of years less than 5 years
+2025-09-09 11:19:55 [main] INFO  utils.LoggerUtil - Screenshot captured for step: Passed Step Screenshot
+2025-09-09 11:19:55 [main] INFO  utils.LoggerUtil - Step passed in scenario: Total No. of years less than 5 years
+2025-09-09 11:20:01 [main] INFO  utils.LoggerUtil - Screenshot captured for step: Passed Step Screenshot
+2025-09-09 11:20:01 [main] INFO  utils.LoggerUtil - Step passed in scenario: Total No. of years less than 5 years
+2025-09-09 11:20:02 [main] INFO  utils.LoggerUtil - Screenshot captured for step: Passed Step Screenshot
+2025-09-09 11:20:02 [main] INFO  utils.LoggerUtil - Step passed in scenario: Total No. of years less than 5 years
+2025-09-09 11:20:03 [main] INFO  utils.LoggerUtil - Screenshot captured for step: Passed Step Screenshot
+2025-09-09 11:20:03 [main] INFO  utils.LoggerUtil - Step passed in scenario: Total No. of years less than 5 years
+2025-09-09 11:20:04 [main] INFO  utils.LoggerUtil - Screenshot captured for step: Passed Step Screenshot
+2025-09-09 11:20:04 [main] INFO  utils.LoggerUtil - Step passed in scenario: Total No. of years less than 5 years
+2025-09-09 11:20:04 [main] INFO  utils.LoggerUtil - Screenshot captured for step: Passed Step Screenshot
+2025-09-09 11:20:04 [main] INFO  utils.LoggerUtil - Step passed in scenario: Total No. of years less than 5 years
+2025-09-09 11:20:04 [main] ERROR utils.LoggerUtil - Scenario failed: Total No. of years less than 5 years
+2025-09-09 11:20:11 [main] INFO  utils.LoggerUtil - Starting scenario: Leaving Years field empty
+2025-09-09 11:20:11 [main] INFO  utils.LoggerUtil - Screenshot captured for step: Passed Step Screenshot
+2025-09-09 11:20:11 [main] INFO  utils.LoggerUtil - Step passed in scenario: Leaving Years field empty
+2025-09-09 11:20:56 [main] INFO  utils.LoggerUtil - Screenshot captured for step: Passed Step Screenshot
+2025-09-09 11:20:56 [main] INFO  utils.LoggerUtil - Step passed in scenario: Leaving Years field empty
+2025-09-09 11:20:59 [main] INFO  utils.LoggerUtil - Screenshot captured for step: Passed Step Screenshot
+2025-09-09 11:20:59 [main] INFO  utils.LoggerUtil - Step passed in scenario: Leaving Years field empty
+2025-09-09 11:21:01 [main] INFO  utils.LoggerUtil - Screenshot captured for step: Passed Step Screenshot
+2025-09-09 11:21:01 [main] INFO  utils.LoggerUtil - Step passed in scenario: Leaving Years field empty
+2025-09-09 11:21:02 [main] INFO  utils.LoggerUtil - Screenshot captured for step: Passed Step Screenshot
+2025-09-09 11:21:02 [main] INFO  utils.LoggerUtil - Step passed in scenario: Leaving Years field empty
+2025-09-09 11:21:03 [main] INFO  utils.LoggerUtil - Screenshot captured for step: Passed Step Screenshot
+2025-09-09 11:21:03 [main] INFO  utils.LoggerUtil - Step passed in scenario: Leaving Years field empty
+2025-09-09 11:21:03 [main] INFO  utils.LoggerUtil - Screenshot captured for step: Passed Step Screenshot
+2025-09-09 11:21:03 [main] INFO  utils.LoggerUtil - Step passed in scenario: Leaving Years field empty
+2025-09-09 11:21:04 [main] ERROR utils.LoggerUtil - Scenario failed: Leaving Years field empty
+2025-09-09 11:21:04 [main] INFO  utils.LoggerUtil - ===== Test Execution Finished =====
+2025-09-09 11:29:37 [main] INFO  utils.LoggerUtil - ===== Test Execution Started =====
+2025-09-09 11:29:53 [main] INFO  utils.LoggerUtil - ===== Test Execution Started =====
+2025-09-09 11:29:59 [main] INFO  utils.LoggerUtil - Starting scenario: Adding alphabet in Salary with numbers
+2025-09-09 11:30:31 [main] ERROR utils.LoggerUtil - Scenario failed: Adding alphabet in Salary with numbers
+2025-09-09 11:30:32 [main] INFO  utils.LoggerUtil - Starting scenario: Calculate gratuity with different salary and tenure
+2025-09-09 11:30:35 [main] INFO  utils.LoggerUtil - Starting scenario: Total No. of years less than 5 years
+2025-09-09 11:30:44 [main] ERROR utils.LoggerUtil - Scenario failed: Calculate gratuity with different salary and tenure
+2025-09-09 11:30:45 [main] ERROR utils.LoggerUtil - Scenario failed: Total No. of years less than 5 years
+2025-09-09 11:30:47 [main] INFO  utils.LoggerUtil - Starting scenario: Calculate gratuity with different salary and tenure
+2025-09-09 11:30:52 [main] INFO  utils.LoggerUtil - Starting scenario: Leaving Years field empty
+2025-09-09 11:30:57 [main] ERROR utils.LoggerUtil - Scenario failed: Calculate gratuity with different salary and tenure
+2025-09-09 11:31:01 [main] INFO  utils.LoggerUtil - ===== Test Execution Started =====
+2025-09-09 11:31:02 [main] ERROR utils.LoggerUtil - Scenario failed: Leaving Years field empty
+2025-09-09 11:31:04 [main] INFO  utils.LoggerUtil - ===== Test Execution Finished =====
+2025-09-09 11:31:12 [main] INFO  utils.LoggerUtil - Starting scenario: Adding alphabet in Salary with numbers
+2025-09-09 11:31:35 [main] INFO  utils.LoggerUtil - Starting scenario: Calculate gratuity with different salary in Decimal values
+2025-09-09 11:32:05 [main] ERROR utils.LoggerUtil - Scenario failed: Calculate gratuity with different salary in Decimal values
+2025-09-09 11:32:08 [main] INFO  utils.LoggerUtil - ===== Test Execution Finished =====
+2025-09-09 11:32:14 [main] ERROR utils.LoggerUtil - Scenario failed: Adding alphabet in Salary with numbers
+2025-09-09 11:32:18 [main] INFO  utils.LoggerUtil - Starting scenario: Total No. of years less than 5 years
+2025-09-09 11:32:29 [main] ERROR utils.LoggerUtil - Scenario failed: Total No. of years less than 5 years
+2025-09-09 11:32:33 [main] INFO  utils.LoggerUtil - Starting scenario: Leaving Years field empty
+2025-09-09 11:32:44 [main] ERROR utils.LoggerUtil - Scenario failed: Leaving Years field empty
+2025-09-09 11:32:44 [main] INFO  utils.LoggerUtil - ===== Test Execution Finished =====
+2025-09-09 11:36:17 [main] INFO  utils.LoggerUtil - ===== Test Execution Started =====
+2025-09-09 11:37:05 [main] INFO  utils.LoggerUtil - Starting scenario: Adding alphabet in Salary with numbers
+2025-09-09 11:37:22 [main] ERROR utils.LoggerUtil - Scenario failed: Adding alphabet in Salary with numbers
+2025-09-09 11:37:25 [main] INFO  utils.LoggerUtil - Starting scenario: Total No. of years less than 5 years
+2025-09-09 11:37:35 [main] ERROR utils.LoggerUtil - Scenario failed: Total No. of years less than 5 years
+2025-09-09 11:37:39 [main] INFO  utils.LoggerUtil - Starting scenario: Leaving Years field empty
+2025-09-09 11:37:49 [main] ERROR utils.LoggerUtil - Scenario failed: Leaving Years field empty
+2025-09-09 11:37:50 [main] INFO  utils.LoggerUtil - ===== Test Execution Finished =====
+2025-09-09 11:39:05 [main] INFO  utils.LoggerUtil - ===== Test Execution Started =====
+2025-09-09 11:39:27 [main] INFO  utils.LoggerUtil - Starting scenario: Adding alphabet in Salary with numbers
+2025-09-09 11:40:20 [main] INFO  utils.LoggerUtil - Scenario passed: Adding alphabet in Salary with numbers
+2025-09-09 11:40:24 [main] INFO  utils.LoggerUtil - Starting scenario: Total No. of years less than 5 years
+2025-09-09 11:40:35 [main] ERROR utils.LoggerUtil - Scenario failed: Total No. of years less than 5 years
+2025-09-09 11:40:38 [main] INFO  utils.LoggerUtil - Starting scenario: Leaving Years field empty
+2025-09-09 11:40:48 [main] ERROR utils.LoggerUtil - Scenario failed: Leaving Years field empty
+2025-09-09 11:40:49 [main] INFO  utils.LoggerUtil - ===== Test Execution Finished =====
+2025-09-09 11:44:08 [main] INFO  utils.LoggerUtil - ===== Test Execution Started =====
+2025-09-09 11:44:14 [main] INFO  utils.LoggerUtil - Starting scenario: Calculate gratuity with different salary in Decimal values
+2025-09-09 11:45:08 [main] INFO  utils.LoggerUtil - Scenario passed: Calculate gratuity with different salary in Decimal values
+2025-09-09 11:45:11 [main] INFO  utils.LoggerUtil - Starting scenario: Calculate gratuity with different salary and tenure
+2025-09-09 11:45:22 [main] ERROR utils.LoggerUtil - Scenario failed: Calculate gratuity with different salary and tenure
+2025-09-09 11:45:33 [main] ERROR utils.LoggerUtil - Scenario failed: Calculate gratuity with different salary and tenure
+2025-09-09 11:45:34 [main] INFO  utils.LoggerUtil - ===== Test Execution Finished =====
+2025-09-09 11:46:32 [main] INFO  utils.LoggerUtil - ===== Test Execution Started =====
+2025-09-09 11:46:38 [main] INFO  utils.LoggerUtil - Starting scenario: Calculate gratuity with different salary in Decimal values
+2025-09-09 11:47:34 [main] INFO  utils.LoggerUtil - Scenario passed: Calculate gratuity with different salary in Decimal values
+2025-09-09 11:47:40 [main] INFO  utils.LoggerUtil - Starting scenario: Calculate gratuity with different salary and tenure
+2025-09-09 11:48:35 [main] INFO  utils.LoggerUtil - Scenario passed: Calculate gratuity with different salary and tenure
+2025-09-09 11:48:41 [main] INFO  utils.LoggerUtil - Starting scenario: Calculate gratuity with different salary and tenure
+2025-09-09 11:49:37 [main] INFO  utils.LoggerUtil - Scenario passed: Calculate gratuity with different salary and tenure
+2025-09-09 11:49:53 [main] INFO  utils.LoggerUtil - Starting scenario: Successful login with valid credentials using Phone Number.
+2025-09-09 11:50:53 [main] ERROR utils.LoggerUtil - Scenario failed: Successful login with valid credentials using Phone Number.
+2025-09-09 11:51:30 [main] INFO  utils.LoggerUtil - Starting scenario: Successful login with valid credentials using Email Address.
+2025-09-09 11:52:29 [main] ERROR utils.LoggerUtil - Scenario failed: Successful login with valid credentials using Email Address.
+2025-09-09 11:52:35 [main] INFO  utils.LoggerUtil - Starting scenario: Successful PF calculation with valid details
+2025-09-09 11:54:27 [main] INFO  utils.LoggerUtil - Scenario passed: Successful PF calculation with valid details
+2025-09-09 11:55:02 [main] INFO  utils.LoggerUtil - Starting scenario: Successful PF calculation with changing contribution%
+2025-09-09 11:56:15 [main] INFO  utils.LoggerUtil - Scenario passed: Successful PF calculation with changing contribution%
+2025-09-09 11:56:49 [main] INFO  utils.LoggerUtil - Starting scenario: Successful EMI calculation with valid loan details
+2025-09-09 11:57:03 [main] INFO  utils.LoggerUtil - Scenario passed: Successful EMI calculation with valid loan details
+2025-09-09 11:57:08 [main] INFO  utils.LoggerUtil - Starting scenario: Successful EMI calculation with valid loan details
+2025-09-09 11:57:59 [main] ERROR utils.LoggerUtil - Scenario failed: Successful EMI calculation with valid loan details
+2025-09-09 11:57:59 [main] INFO  utils.LoggerUtil - ===== Test Execution Finished =====
+2025-09-09 12:09:18 [main] INFO  utils.LoggerUtil - ===== Test Execution Started =====
+2025-09-09 12:09:54 [main] INFO  utils.LoggerUtil - Starting scenario: Successful EMI calculation with valid loan details
+2025-09-09 12:10:06 [main] ERROR utils.LoggerUtil - Scenario failed: Successful EMI calculation with valid loan details
+2025-09-09 12:10:37 [main] INFO  utils.LoggerUtil - Starting scenario: Successful EMI calculation with valid loan details
+2025-09-09 12:10:48 [main] ERROR utils.LoggerUtil - Scenario failed: Successful EMI calculation with valid loan details
+2025-09-09 12:10:49 [main] INFO  utils.LoggerUtil - ===== Test Execution Finished =====
+2025-09-09 12:12:16 [main] INFO  utils.LoggerUtil - ===== Test Execution Started =====
+2025-09-09 12:12:23 [main] INFO  utils.LoggerUtil - Starting scenario: Successful login with valid credentials using Phone Number.
+2025-09-09 12:14:05 [main] ERROR utils.LoggerUtil - Scenario failed: Successful login with valid credentials using Phone Number.
+2025-09-09 12:14:12 [main] INFO  utils.LoggerUtil - Starting scenario: Successful login with valid credentials using Email Address.
+2025-09-09 12:15:54 [main] ERROR utils.LoggerUtil - Scenario failed: Successful login with valid credentials using Email Address.
+2025-09-09 12:15:55 [main] INFO  utils.LoggerUtil - ===== Test Execution Finished =====
+2025-09-09 12:16:06 [main] INFO  utils.LoggerUtil - ===== Test Execution Started =====
+2025-09-09 12:16:43 [main] INFO  utils.LoggerUtil - Starting scenario: Successful login with valid credentials using Phone Number.
+2025-09-09 12:17:33 [main] INFO  utils.LoggerUtil - Scenario passed: Successful login with valid credentials using Phone Number.
+2025-09-09 12:18:09 [main] INFO  utils.LoggerUtil - Starting scenario: Successful login with valid credentials using Email Address.
+2025-09-09 12:18:58 [main] INFO  utils.LoggerUtil - Scenario passed: Successful login with valid credentials using Email Address.
+2025-09-09 12:18:59 [main] INFO  utils.LoggerUtil - ===== Test Execution Finished =====
+2025-09-09 12:24:02 [main] INFO  utils.LoggerUtil - ===== Test Execution Started =====
+2025-09-09 12:24:39 [main] INFO  utils.LoggerUtil - Starting scenario: Successful EMI calculation with valid loan details
+2025-09-09 12:24:52 [main] INFO  utils.LoggerUtil - Scenario passed: Successful EMI calculation with valid loan details
+2025-09-09 12:24:56 [main] INFO  utils.LoggerUtil - Starting scenario: Successful EMI calculation with valid loan details
+2025-09-09 12:25:06 [main] ERROR utils.LoggerUtil - Scenario failed: Successful EMI calculation with valid loan details
+2025-09-09 12:25:07 [main] INFO  utils.LoggerUtil - ===== Test Execution Finished =====
+2025-09-09 12:39:13 [main] INFO  utils.LoggerUtil - ===== Test Execution Started =====
+2025-09-09 12:39:27 [TestNG-PoolService-5] INFO  utils.LoggerUtil - Starting scenario: Successful login with valid credentials using Email Address.
+2025-09-09 12:39:30 [TestNG-PoolService-6] INFO  utils.LoggerUtil - Starting scenario: Successful PF calculation with valid details
+2025-09-09 12:39:32 [TestNG-PoolService-1] INFO  utils.LoggerUtil - Starting scenario: Calculate gratuity with different salary in Decimal values
+2025-09-09 12:39:32 [TestNG-PoolService-4] INFO  utils.LoggerUtil - Starting scenario: Successful login with valid credentials using Phone Number.
+2025-09-09 12:39:33 [TestNG-PoolService-2] INFO  utils.LoggerUtil - Starting scenario: Calculate gratuity with different salary and tenure
+2025-09-09 12:39:34 [TestNG-PoolService-8] INFO  utils.LoggerUtil - Starting scenario: Successful EMI calculation with valid loan details
+2025-09-09 12:39:34 [TestNG-PoolService-3] INFO  utils.LoggerUtil - Starting scenario: Calculate gratuity with different salary and tenure
+2025-09-09 12:39:34 [TestNG-PoolService-7] INFO  utils.LoggerUtil - Starting scenario: Successful PF calculation with changing contribution%
+2025-09-09 12:42:45 [TestNG-PoolService-9] ERROR utils.LoggerUtil - Scenario failed: Successful EMI calculation with valid loan details
+2025-09-09 12:44:49 [main] INFO  utils.LoggerUtil - ===== Test Execution Started =====
+2025-09-09 12:45:25 [main] INFO  utils.LoggerUtil - Starting scenario: Calculate gratuity with different salary in Decimal values
+2025-09-09 12:45:38 [main] INFO  utils.LoggerUtil - Scenario passed: Calculate gratuity with different salary in Decimal values
+2025-09-09 12:46:12 [main] INFO  utils.LoggerUtil - Starting scenario: Calculate gratuity with different salary and tenure
+2025-09-09 12:46:30 [main] INFO  utils.LoggerUtil - Scenario passed: Calculate gratuity with different salary and tenure
+2025-09-09 12:47:05 [main] INFO  utils.LoggerUtil - Starting scenario: Calculate gratuity with different salary and tenure
+2025-09-09 12:47:21 [main] INFO  utils.LoggerUtil - Scenario passed: Calculate gratuity with different salary and tenure
+2025-09-09 12:47:27 [main] INFO  utils.LoggerUtil - Starting scenario: Adding alphabet in Salary with numbers
+2025-09-09 12:48:23 [main] INFO  utils.LoggerUtil - Scenario passed: Adding alphabet in Salary with numbers
+2025-09-09 12:48:57 [main] INFO  utils.LoggerUtil - Starting scenario: Total No. of years less than 5 years
+2025-09-09 12:49:08 [main] INFO  utils.LoggerUtil - Scenario passed: Total No. of years less than 5 years
+2025-09-09 12:49:15 [main] INFO  utils.LoggerUtil - Starting scenario: Leaving Years field empty
+2025-09-09 12:50:09 [main] INFO  utils.LoggerUtil - Scenario passed: Leaving Years field empty
+2025-09-09 12:50:15 [main] INFO  utils.LoggerUtil - Starting scenario: Successful login with valid credentials using Phone Number.
+2025-09-09 12:51:44 [main] INFO  utils.LoggerUtil - Scenario passed: Successful login with valid credentials using Phone Number.
+2025-09-09 12:51:50 [main] INFO  utils.LoggerUtil - Starting scenario: Successful login with valid credentials using Email Address.
+2025-09-09 12:53:24 [main] INFO  utils.LoggerUtil - Scenario passed: Successful login with valid credentials using Email Address.
+2025-09-09 12:53:30 [main] INFO  utils.LoggerUtil - Starting scenario: Attempt login with unregistered Email Address
+2025-09-09 12:54:25 [main] ERROR utils.LoggerUtil - Scenario failed: Attempt login with unregistered Email Address
+2025-09-09 12:55:01 [main] INFO  utils.LoggerUtil - Starting scenario: Attempt login with invalid Mobile Number (less than 10 digits)
+2025-09-09 12:55:16 [main] ERROR utils.LoggerUtil - Scenario failed: Attempt login with invalid Mobile Number (less than 10 digits)
+2025-09-09 12:55:50 [main] INFO  utils.LoggerUtil - Starting scenario: Successful PF calculation with valid details
+2025-09-09 12:57:08 [main] INFO  utils.LoggerUtil - Scenario passed: Successful PF calculation with valid details
+2025-09-09 12:57:48 [main] INFO  utils.LoggerUtil - Starting scenario: Successful PF calculation with changing contribution%
+2025-09-09 12:59:05 [main] INFO  utils.LoggerUtil - Scenario passed: Successful PF calculation with changing contribution%
+2025-09-09 12:59:56 [main] INFO  utils.LoggerUtil - Starting scenario: Attempt PF calculation, Entering Salary as Zero
+2025-09-09 13:01:10 [main] INFO  utils.LoggerUtil - Scenario passed: Attempt PF calculation, Entering Salary as Zero
+2025-09-09 13:01:49 [main] INFO  utils.LoggerUtil - Starting scenario: Attempt PF calculation, Entering Intended years same as Age
+2025-09-09 13:03:02 [main] INFO  utils.LoggerUtil - Scenario passed: Attempt PF calculation, Entering Intended years same as Age
+2025-09-09 13:03:07 [main] INFO  utils.LoggerUtil - Starting scenario: Successful EMI calculation with valid loan details
+2025-09-09 13:03:58 [main] INFO  utils.LoggerUtil - Scenario passed: Successful EMI calculation with valid loan details
+2025-09-09 13:04:34 [main] INFO  utils.LoggerUtil - Starting scenario: Successful EMI calculation with valid loan details
+2025-09-09 13:04:52 [main] INFO  utils.LoggerUtil - Scenario passed: Successful EMI calculation with valid loan details
+2025-09-09 13:04:57 [main] INFO  utils.LoggerUtil - Starting scenario: EMI calculation with invalid loan details
+2025-09-09 13:05:48 [main] INFO  utils.LoggerUtil - Scenario passed: EMI calculation with invalid loan details
+2025-09-09 13:06:24 [main] INFO  utils.LoggerUtil - Starting scenario: EMI calculation with invalid loan details
+2025-09-09 13:06:35 [main] INFO  utils.LoggerUtil - Scenario passed: EMI calculation with invalid loan details
+2025-09-09 13:06:41 [main] INFO  utils.LoggerUtil - Starting scenario: EMI calculation with invalid loan details
+2025-09-09 13:07:54 [main] ERROR utils.LoggerUtil - Scenario failed: EMI calculation with invalid loan details
+2025-09-09 13:07:55 [main] INFO  utils.LoggerUtil - ===== Test Execution Finished =====
